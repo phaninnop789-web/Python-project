@@ -1,0 +1,423 @@
+sex,age,address,guardian,sibling,health,grade,school,Medu,Fedu,Mjob,Fjob,Fincome,Fcare,Fsup,Fmotivation,Fresponse,Fcharactor,Fencourage,Fpraise,Henvironment,Hdistance,Slearning,freetime,homework,absence,Rlesson,Smotivation,internet,computer,table,higher,goout,Dalc,Walc,S1,S2
+Male,17,Rural,Parents,4,5,11,Public_School,Primary school,Secondary school,Housewife,Farmer,3,5,4,5,4,5.0,4,5,4,0,5,4,5,2,5,5,No,No,Yes,Yes,1,1,1,43.67,43.5
+Female,18,Rural,Parents,6,1,12,Public_School,Primary school,High school,Housewife,Farmer,3,4,4,4,4,5.0,4,4,4,1,4,5,4,2,4,5,No,No,Yes,Yes,2,1,1,38.8,39.4
+Female,19,Urban,Other,4,5,12,Public_School,Secondary school,Master & PhD,Own business,Minister,3,5,5,5,5,3.0,4,4,4,1,5,3,5,3,3,4,Yes,Yes,Yes,Yes,4,1,3,40.0,40.0
+Female,19,Rural,Parents,3,3,12,Public_School,Primary school,Secondary school,Housewife,Farmer,3,3,5,4,4,4.0,4,4,5,1,3,4,3,2,5,4,Yes,No,Yes,Yes,5,2,2,32.5,32.5  
+Female,19,Rural,Parents,2,4,10,Other Schools,Primary school,Primary school,Farmer,Farmer,4,4,4,4,4,4.0,4,4,4,0,4,4,4,4,4,4,Yes,Yes,Yes,Yes,3,4,2,30.0,30.0
+Female,19,Rural,Parents,4,5,12,Public_School,Secondary school,Secondary school,Other,Farmer,3,3,5,1,1,5.0,5,3,3,0,4,5,1,1,3,4,Yes,No,No,Yes,3,1,1,47.0,48.0
+Male,19,Rural,Parents,3,3,12,Public_School,Secondary school,Secondary school,Farmer,Farmer,3,3,4,4,4,4.0,3,4,4,0,3,3,3,4,3,3,Yes,Yes,Yes,Yes,3,3,3,47.0,48.0
+Female,16,Rural,Parents,3,4,11,Public_School,Primary school,High school,Other,Other,3,5,5,5,4,5.0,4,5,4,1,5,4,4,4,5,5,Yes,No,Yes,Yes,4,1,2,47.0,48.0
+Female,17,Urban,Only mother,3,4,11,Private_School,Bachelor,Bachelor,Minister,Minister,4,5,5,5,4,4.0,5,5,5,0,5,2,5,4,4,5,Yes,Yes,Yes,Yes,2,1,1,47.0,48.0
+Male,18,Urban,Parents,3,4,11,Private_School,Secondary school,Bachelor,Own business,Minister,2,5,5,5,4,5.0,4,5,3,0,3,4,5,1,4,5,Yes,No,Yes,Yes,3,1,1,47.0,48.0
+Male,19,Rural,Parents,4,4,12,Public_School,High school,High school,Own business,Own business,3,5,5,5,4,4.0,4,5,4,0,4,2,3,4,1,5,Yes,Yes,Yes,Yes,2,2,1,47.0,48.0
+Male,16,Rural,Parents,3,4,10,Public_School,Primary school,Secondary school,Housewife,Other,2,5,5,5,4,3.0,4,4,3,1,3,4,4,1,5,5,Yes,Yes,No,Yes,2,1,1,47.0,48.0
+Female,19,Rural,Other,4,3,12,Private_School,High school,High school,Housewife,Minister,3,5,5,5,5,3.0,3,5,5,0,5,3,5,2,5,5,Yes,Yes,Yes,Yes,1,1,1,47.0,48.0
+Male,18,Rural,Only mother,1,4,12,Public_School,Primary school,Bachelor,Farmer,Farmer,3,3,5,4,5,5.0,4,4,5,2,5,5,5,1,5,5,No,No,No,Yes,3,1,1,47.8,48.0
+Male,15,Rural,Parents,4,3,11,Public_School,Primary school,Secondary school,Own business,Farmer,4,5,5,5,5,2.0,5,5,5,1,4,5,5,1,5,5,Yes,Yes,Yes,Yes,2,2,1,45.0,48.0
+Female,17,Rural,Other,2,3,12,Public_School,Secondary school,Primary school,Housewife,Farmer,3,4,5,5,5,4.0,5,5,3,1,5,4,5,2,5,5,Yes,No,Yes,Yes,2,1,1,47.0,48.0
+Female,16,Rural,Parents,3,4,11,Public_School,Secondary school,High school,Housewife,Farmer,3,4,4,5,4,3.0,4,4,4,1,4,3,4,1,4,4,Yes,No,Yes,Yes,2,1,1,46.0,48.0
+Female,17,Urban,Only mother,2,4,12,Private_School,Bachelor,High school,Minister,No job,4,5,5,5,5,5.0,5,5,5,1,4,4,5,1,5,5,Yes,Yes,Yes,Yes,2,1,1,47.0,48.0
+Female,16,Rural,Parents,3,5,11,Private_School,Secondary school,Secondary school,Farmer,Farmer,2,5,5,5,5,5.0,5,5,2,2,4,4,5,1,5,5,No,No,No,Yes,4,1,1,47.0,48.0
+Female,16,Rural,Parents,2,5,12,Private_School,Primary school,Primary school,Housewife,Farmer,2,5,5,5,5,5.0,5,5,3,1,5,5,5,1,5,5,No,No,No,Yes,3,1,1,47.0,48.0
+Female,16,Rural,Parents,1,3,12,Public_School,Secondary school,Secondary school,Farmer,Farmer,4,5,5,5,4,5.0,4,5,4,1,5,3,4,3,5,5,Yes,Yes,Yes,Yes,2,2,1,47.0,48.0
+Male,17,Urban,Parents,4,4,11,Private_School,Bachelor,Bachelor,Minister,Minister,4,4,4,5,4,3.0,2,3,3,2,3,2,4,3,5,5,Yes,Yes,Yes,Yes,4,2,1,47.0,48.0
+Male,17,Rural,Parents,4,4,11,Public_School,Primary school,Primary school,Housewife,No job,4,3,5,3,3,4.0,4,5,3,0,3,4,4,2,4,4,Yes,No,Yes,Yes,2,1,1,47.9,48.0
+Male,18,Rural,Parents,6,5,12,Public_School,High school,High school,Own business,Minister,3,4,5,5,4,5.0,5,5,5,0,3,2,5,2,5,4,Yes,Yes,Yes,Yes,2,1,1,47.0,47.5
+Male,15,Rural,Parents,4,4,10,Public_School,Primary school,High school,Farmer,Farmer,2,5,5,5,5,5.0,5,5,4,1,4,3,5,1,5,5,Yes,No,Yes,Yes,1,1,1,47.0,47.5
+Male,17,Rural,Parents,6,4,11,Public_School,High school,High school,Housewife,Farmer,2,5,5,5,5,5.0,5,5,5,0,4,3,5,4,5,5,Yes,No,Yes,Yes,2,1,1,47.0,47.36
+Male,17,Rural,Parents,3,4,11,Public_School,High school,Bachelor,Farmer,Minister,3,5,5,4,4,4.0,5,5,4,0,4,2,5,3,5,4,No,No,Yes,Yes,2,1,1,47.0,47.3
+Female,19,Rural,Parents,1,5,12,Public_School,Primary school,Primary school,Housewife,Farmer,3,3,5,5,5,5.0,5,5,5,1,5,5,5,2,5,5,Yes,Yes,Yes,Yes,5,1,1,47.0,47.0
+Female,18,Urban,Other,3,3,12,Private_School,Primary school,Primary school,Other,Other,1,3,3,5,2,2.0,5,4,4,1,4,4,5,2,4,4,Yes,Yes,Yes,Yes,1,1,1,46.0,47.0
+Female,17,Rural,Only mother,4,4,11,Public_School,Secondary school,High school,Farmer,Farmer,2,4,5,5,3,5.0,5,5,5,0,4,2,5,2,5,5,Yes,No,Yes,Yes,2,1,1,47.0,47.0
+Male,18,Urban,Only mother,2,5,12,Private_School,Secondary school,Bachelor,Housewife,Minister,4,4,4,5,5,3.0,4,3,5,0,5,2,5,2,5,4,Yes,No,Yes,Yes,3,1,1,47.0,47.0
+Male,16,Rural,Parents,4,4,11,Public_School,Primary school,Bachelor,Housewife,Minister,4,4,5,5,3,4.0,3,5,5,0,3,2,5,2,5,4,Yes,No,Yes,Yes,3,1,1,47.0,47.0
+Male,17,Rural,Parents,3,4,11,Public_School,High school,High school,Own business,Minister,4,4,5,5,4,5.0,5,5,5,0,3,2,5,2,5,5,Yes,Yes,Yes,Yes,2,1,1,47.0,47.0
+Male,17,Rural,Parents,3,4,11,Public_School,High school,Bachelor,Own business,Minister,2,4,4,4,5,4.0,4,4,5,0,3,2,4,2,4,5,Yes,Yes,Yes,Yes,2,1,1,46.0,47.0
+Female,16,Rural,Parents,3,4,10,Public_School,High school,High school,Housewife,Minister,2,3,3,4,2,4.0,2,3,3,1,3,2,5,1,4,4,Yes,Yes,Yes,Yes,2,1,1,46.8,47.0
+Male,18,Rural,Parents,4,4,11,Public_School,Secondary school,Secondary school,Farmer,Farmer,2,3,5,3,3,5.0,3,5,3,1,3,3,5,1,4,5,Yes,Yes,Yes,Yes,2,1,2,47.0,47.0
+Male,18,Urban,Only,3,2,12,Public_School,Primary school,Secondary school,Housewife,Other,2,5,5,5,4,3.0,4,4,3,1,2,2,4,1,5,5,Yes,Yes,No,Yes,3,2,1,47.1,46.9
+Male,16,Rural,Parents,3,4,11,Public_School,Primary school,Primary school,Farmer,Farmer,2,4,5,5,4,5.0,5,5,5,2,4,2,5,1,5,5,Yes,No,Yes,Yes,3,1,1,47.5,46.5
+Male,17,Rural,Parents,2,4,10,Public_School,Primary school,Bachelor,Housewife,Farmer,2,5,5,5,2,2.0,2,5,3,1,5,5,5,2,5,5,No,No,Yes,Yes,2,1,1,44.48,46.3
+Male,15,Rural,Parents,4,3,10,Public_School,Primary school,Secondary school,Housewife,Farmer,3,4,5,4,4,3.0,3,4,3,0,5,3,5,2,5,4,Yes,No,Yes,Yes,2,1,1,43.49,46.27
+Male,15,Rural,Parents,3,5,10,Public_School,Primary school,Secondary school,Farmer,Farmer,3,5,5,5,3,5.0,5,5,3,1,4,5,4,1,4,5,Yes,No,Yes,Yes,5,1,1,43.16,46.2
+Female,19,Rural,Parents,2,1,12,Public_School,Primary school,Primary school,Farmer,Farmer,3,5,5,5,4,4.0,5,5,5,0,5,4,5,2,4,4,Yes,No,Yes,Yes,2,1,1,45.0,46.0
+Male,18,Rural,Only mother,4,5,12,Public_School,Primary school,Secondary school,Own business,Other,2,5,5,5,4,5.0,5,3,3,0,5,3,4,4,5,5,Yes,No,Yes,Yes,3,1,1,47.0,46.0
+Male,19,Rural,Parents,4,1,12,Public_School,Illiterate,Illiterate,Housewife,Farmer,3,5,5,5,5,5.0,5,5,2,2,5,5,5,2,5,5,No,No,No,Yes,2,1,1,46.0,46.0
+Female,19,Rural,Other,2,4,12,Public_School,Primary school,High school,Housewife,Farmer,3,3,4,5,5,5.0,5,4,4,1,4,4,5,1,5,5,Yes,No,Yes,Yes,1,1,1,45.0,46.0
+Female,15,Urban,Other,2,3,10,Public_School,High school,High school,Own business,Other,4,3,5,4,4,4.0,3,4,5,0,4,4,5,1,4,4,Yes,Yes,Yes,Yes,3,1,1,44.0,46.0
+Female,16,Urban,Other,3,3,12,Private_School,Primary school,Primary school,Other,Other,1,3,2,5,2,2.0,2,4,4,1,4,2,3,3,4,5,Yes,Yes,Yes,Yes,2,1,1,45.0,46.0
+Female,16,Rural,Parents,2,4,12,Public_School,Secondary school,Secondary school,Own business,Own business,4,4,5,5,5,5.0,5,5,5,1,5,4,5,4,5,5,Yes,Yes,Yes,Yes,2,1,1,46.0,46.0
+Female,16,Rural,Parents,2,4,11,Public_School,Secondary school,Primary school,Farmer,Farmer,3,5,5,5,3,2.0,4,4,3,1,4,3,4,1,5,5,Yes,Yes,Yes,Yes,4,2,1,45.0,46.0
+Male,18,Rural,Parents,2,4,12,Public_School,High school,High school,Housewife,Farmer,2,5,5,5,5,5.0,5,5,5,0,4,2,5,4,5,5,Yes,No,Yes,Yes,1,1,1,47.0,46.0
+Male,17,Rural,Parents,3,5,11,Public_School,Secondary school,High school,Own business,Own business,4,2,4,5,3,1.0,1,1,2,2,3,2,5,4,4,5,Yes,Yes,Yes,Yes,2,1,1,47.0,46.0
+Male,17,Urban,Parents,4,4,11,Private_School,Primary school,High school,Own business,Minister,3,2,4,3,2,3.0,3,4,3,2,1,3,5,4,4,4,Yes,Yes,Yes,Yes,2,1,1,47.8,46.0
+Male,17,Rural,Other,2,4,11,Public_School,High school,Bachelor,Private staff,Minister,3,4,4,4,5,4.0,4,4,5,0,3,3,4,2,4,5,Yes,Yes,Yes,Yes,3,1,1,45.0,45.9
+Male,17,Rural,Parents,3,4,11,Public_School,Primary school,Master & PhD,Other,Other,4,3,5,4,3,3.0,3,4,3,0,3,3,4,2,3,4,Yes,Yes,Yes,Yes,3,1,1,43.9,45.8
+Female,16,Rural,Parents,3,4,11,Public_School,Illiterate,Primary school,Farmer,Farmer,1,5,5,5,3,5.0,5,5,3,2,2,2,5,2,5,5,Yes,No,Yes,Yes,1,1,1,44.0,45.8
+Male,18,Urban,Parents,4,4,12,Private_School,Bachelor,Bachelor,Own business,Minister,3,5,5,5,5,5.0,2,3,3,2,1,3,5,1,4,4,Yes,Yes,Yes,Yes,2,1,1,47.0,45.8
+Male,15,Rural,Parents,3,5,10,Public_School,Primary school,Secondary school,Farmer,Farmer,3,5,5,5,3,5.0,5,5,3,1,4,5,5,1,5,5,Yes,No,Yes,Yes,5,1,1,43.1,45.23
+Female,19,Rural,Parents,2,3,12,Public_School,Secondary school,High school,Housewife,Farmer,3,3,4,5,3,4.0,5,5,4,1,5,3,5,2,5,5,Yes,Yes,Yes,Yes,5,1,1,45.0,45.0
+Female,18,Urban,Only mother,4,4,12,Public_School,Secondary school,Bachelor,Housewife,Own business,3,4,5,5,5,4.0,4,5,5,0,5,4,4,2,5,5,Yes,Yes,Yes,Yes,3,1,1,45.0,45.0
+Female,18,Urban,Parents,4,3,12,Public_School,Secondary school,High school,Housewife,Own business,3,4,5,4,4,3.0,3,5,5,1,4,2,3,3,4,3,Yes,Yes,Yes,Yes,3,1,1,44.0,45.0
+Female,18,Rural,Other,2,3,12,Public_School,Primary school,Illiterate,Other,Farmer,3,4,4,4,4,3.0,3,5,3,2,2,3,5,1,5,4,Yes,Yes,Yes,No,4,1,2,40.0,45.0
+Female,19,Rural,Parents,4,4,12,Public_School,High school,High school,Minister,Minister,4,5,5,5,3,3.0,4,5,2,0,3,3,3,3,3,3,Yes,Yes,Yes,Yes,4,1,1,45.0,45.0
+Male,19,Urban,Parents,3,4,12,Public_School,Primary school,Primary school,Housewife,Farmer,3,4,4,4,3,3.0,2,3,4,0,5,3,5,1,5,4,Yes,No,Yes,Yes,4,1,2,44.0,45.0
+Female,19,Rural,Parents,6,3,12,Other Schools,High school,Secondary school,Farmer,Farmer,3,3,4,5,3,5.0,4,5,4,1,4,4,5,1,5,5,Yes,No,Yes,Yes,5,1,1,45.0,45.0
+Male,19,Rural,Other,3,5,12,Public_School,High school,High school,Farmer,Other,3,4,1,5,5,5.0,5,5,5,2,5,5,5,1,5,5,Yes,Yes,Yes,Yes,1,1,1,45.0,45.0
+Female,19,Urban,Other,4,3,12,Public_School,High school,High school,Minister,Other,3,4,5,5,4,5.0,5,5,5,0,5,4,5,3,5,4,Yes,Yes,Yes,Yes,5,1,1,40.0,45.0
+Female,18,Urban,Parents,3,5,12,Public_School,High school,High school,Own business,Own business,3,5,5,5,5,5.0,5,5,5,1,5,5,5,2,5,5,Yes,Yes,Yes,Yes,2,1,2,46.0,45.0
+Male,19,Urban,Only,6,5,12,Public_School,High school,Primary school,Housewife,Farmer,3,4,5,5,4,5.0,5,5,3,2,5,5,5,4,4,4,No,No,Yes,Yes,3,1,1,40.0,45.0
+Male,18,Rural,Parents,6,2,12,Private_School,Primary school,Primary school,Farmer,Other,1,4,2,5,4,5.0,4,5,1,0,4,3,4,3,4,4,Yes,Yes,Yes,Yes,1,1,1,45.0,45.0
+Female,19,Rural,Parents,3,3,12,Private_School,Primary school,Primary school,Other,Farmer,3,4,3,3,4,3.0,3,3,4,0,4,3,4,2,4,4,No,No,Yes,Yes,3,1,1,45.0,45.0
+Male,14,Rural,Parents,3,4,10,Public_School,Primary school,High school,Farmer,Farmer,3,3,5,5,4,5.0,4,4,1,1,4,2,5,2,4,5,Yes,No,Yes,Yes,2,1,1,45.0,45.0
+Female,16,Rural,Parents,2,3,12,Public_School,High school,High school,Private staff,Minister,3,4,5,5,4,5.0,5,5,4,1,5,4,5,3,5,5,Yes,Yes,Yes,Yes,2,1,1,44.0,45.0
+Female,18,Rural,Parents,2,3,12,Public_School,Primary school,High school,Farmer,Farmer,3,4,3,5,3,3.0,5,3,5,1,4,3,4,1,4,4,Yes,No,Yes,Yes,1,1,1,45.0,45.0
+Male,19,Rural,Parents,3,2,12,Public_School,Illiterate,Secondary school,Private staff,Farmer,3,3,4,2,2,2.0,3,2,3,0,2,3,2,1,2,2,Yes,No,No,Yes,5,1,1,38.0,45.0
+Female,16,Rural,Parents,2,3,12,Public_School,Primary school,Secondary school,Housewife,Farmer,3,4,5,5,4,4.0,4,5,5,1,5,3,3,3,4,5,Yes,No,Yes,Yes,3,1,1,45.0,45.0
+Female,16,Rural,Parents,2,5,12,Public_School,Illiterate,Bachelor,Housewife,Other,3,4,5,5,5,5.0,5,5,5,1,5,5,5,2,5,4,Yes,No,Yes,Yes,2,1,1,40.0,45.0
+Male,18,Rural,Parents,3,3,12,Public_School,Secondary school,Secondary school,Farmer,Farmer,4,2,5,5,5,5.0,5,5,5,1,5,5,5,2,5,5,Yes,Yes,Yes,Yes,1,1,1,44.0,45.0
+Female,17,Rural,Parents,3,3,12,Public_School,Primary school,Primary school,Farmer,Farmer,3,3,3,5,4,5.0,3,3,3,0,4,3,4,3,4,3,Yes,Yes,Yes,Yes,3,1,1,13.0,45.0
+Male,18,Rural,Parents,1,3,11,Public_School,High school,High school,Housewife,Own business,3,5,5,5,5,5.0,5,5,5,2,5,5,1,1,5,5,Yes,Yes,Yes,Yes,1,1,1,45.0,45.0
+Male,18,Rural,Parents,2,5,11,Public_School,Primary school,Primary school,Housewife,Other,3,5,5,5,1,5.0,1,3,5,0,2,2,5,1,5,5,Yes,Yes,Yes,No,2,1,1,42.0,45.0
+Male,15,Urban,Parents,4,3,11,Private_School,Illiterate,Primary school,Housewife,Other,3,4,3,5,3,4.0,3,5,3,1,3,3,5,1,4,4,Yes,Yes,Yes,Yes,2,1,1,42.0,45.0
+Male,18,Rural,Other,2,3,12,Public_School,Primary school,Secondary school,Farmer,Farmer,3,5,5,5,5,5.0,4,5,4,0,4,5,5,1,5,5,Yes,Yes,Yes,Yes,1,1,1,44.0,45.0
+Male,15,Urban,Parents,2,2,10,Private_School,Secondary school,High school,Own business,Own business,2,3,5,5,3,3.0,2,3,5,1,4,3,5,2,5,5,Yes,No,Yes,Yes,3,3,2,44.0,45.0
+Male,18,Rural,Parents,4,5,12,Public_School,Primary school,High school,Housewife,Minister,2,3,2,4,3,3.0,3,3,4,0,3,2,4,1,3,5,Yes,Yes,Yes,Yes,2,1,2,46.0,45.0
+Male,18,Rural,Parents,2,4,11,Public_School,Primary school,Bachelor,Other,Other,3,3,5,4,3,3.0,3,4,3,0,3,2,4,2,3,4,Yes,Yes,Yes,Yes,2,1,1,44.2,45.0
+Male,18,Urban,Parents,3,3,12,Private_School,Master & PhD,Primary school,Minister,Private staff,3,2,4,5,5,4.0,4,4,3,0,3,2,3,2,5,4,Yes,Yes,Yes,Yes,2,1,1,44.0,45.0
+Male,18,Urban,Parents,3,5,11,Private_School,Secondary school,Bachelor,Housewife,Private staff,3,3,4,4,3,2.0,4,4,4,0,2,3,5,1,5,4,Yes,No,No,Yes,3,1,1,46.0,45.0
+Male,18,Urban,Parents,1,3,12,Public_School,High school,High school,Farmer,Farmer,3,5,4,5,4,5.0,5,5,4,1,4,4,4,2,4,4,Yes,Yes,Yes,Yes,2,1,1,45.0,44.5
+Male,16,Rural,Parents,4,4,10,Public_School,Secondary school,Secondary school,Farmer,Farmer,2,5,4,5,3,5.0,4,4,4,0,3,2,5,2,5,5,Yes,No,Yes,Yes,3,1,1,44.0,44.5
+Male,18,Rural,Parents,4,2,12,Private_School,Primary school,Secondary school,Housewife,Farmer,2,5,5,5,5,4.0,4,4,3,0,4,3,4,2,5,5,Yes,Yes,Yes,Yes,2,1,1,44.5,44.35
+Female,16,Rural,Parents,2,5,10,Public_School,Primary school,Primary school,Housewife,Farmer,3,4,5,5,5,5.0,5,5,5,1,5,5,5,5,5,5,Yes,No,Yes,Yes,5,2,2,44.13,44.34
+Female,14,Rural,Parents,3,5,10,Public_School,Secondary school,Secondary school,Housewife,Farmer,3,4,5,4,4,4.0,3,4,3,0,3,3,4,4,5,4,Yes,No,Yes,Yes,2,1,1,44.2,44.2
+Female,17,Urban,Parents,3,3,12,Public_School,Primary school,Primary school,Own business,Own business,3,5,3,5,1,5.0,1,3,2,1,5,4,4,5,5,5,Yes,Yes,Yes,Yes,3,1,1,44.0,44.0
+Male,19,Rural,Other,3,5,12,Public_School,Primary school,Primary school,Housewife,Farmer,3,3,4,5,4,1.0,4,5,4,1,5,5,5,2,5,5,Yes,Yes,Yes,Yes,3,2,2,45.0,44.0
+Male,16,Urban,Parents,3,3,10,Public_School,High school,High school,Housewife,Own business,3,4,5,5,3,5.0,2,2,5,1,3,2,4,3,2,4,Yes,Yes,Yes,Yes,4,1,2,41.0,44.0
+Male,18,Urban,Parents,2,3,12,Public_School,High school,Bachelor,Housewife,Farmer,3,3,4,5,3,3.0,3,3,3,2,5,5,3,3,3,3,Yes,Yes,Yes,Yes,5,2,2,39.0,44.0
+Male,15,Rural,Parents,2,5,10,Public_School,Primary school,Primary school,Farmer,Farmer,3,5,5,5,3,5.0,5,5,3,1,4,5,5,1,5,5,Yes,No,Yes,No,5,1,1,40.0,44.0
+Female,15,Rural,Parents,4,3,10,Public_School,Secondary school,Secondary school,Housewife,Farmer,4,4,5,4,4,5.0,4,4,5,1,5,2,4,1,5,4,Yes,No,Yes,Yes,4,1,1,45.0,44.0
+Male,18,Rural,Parents,2,4,12,Public_School,Primary school,Secondary school,Housewife,Farmer,3,4,4,5,4,4.0,4,5,5,1,3,5,4,2,3,5,Yes,No,Yes,Yes,3,2,2,40.0,44.0
+Male,18,Rural,Parents,2,4,12,Public_School,Primary school,High school,Housewife,Other,3,5,5,5,5,5.0,5,5,3,1,5,5,5,3,5,5,Yes,Yes,Yes,Yes,4,1,1,43.0,44.0
+Male,14,Rural,Parents,3,3,11,Public_School,Primary school,Primary school,Other,Other,3,3,5,5,5,5.0,5,4,5,1,5,5,5,1,5,5,Yes,No,No,Yes,1,1,1,40.0,44.0
+Male,16,Rural,Parents,3,4,11,Public_School,Primary school,High school,Housewife,Minister,3,3,2,4,3,3.0,3,3,4,0,3,2,4,1,3,5,Yes,Yes,Yes,Yes,3,1,2,45.0,44.0
+Female,16,Rural,Parents,3,2,12,Public_School,Primary school,Primary school,Housewife,Own business,2,4,5,5,2,5.0,3,4,4,1,4,5,5,1,3,4,Yes,Yes,Yes,Yes,2,1,1,43.92,43.77
+Female,15,Rural,Parents,3,5,10,Public_School,Primary school,Primary school,Own business,Own business,3,5,3,5,3,5.0,3,5,4,1,4,3,5,2,5,5,Yes,No,No,Yes,3,1,1,43.46,43.46
+Female,16,Rural,Parents,2,5,10,Public_School,Primary school,Primary school,Own business,Own business,4,4,5,4,4,4.0,2,2,5,1,3,3,4,3,4,4,Yes,No,Yes,Yes,2,1,1,43.46,43.46
+Female,15,Rural,Parents,3,3,11,Public_School,Primary school,High school,Housewife,Farmer,3,4,3,3,3,3.0,3,4,4,1,4,3,2,2,4,4,Yes,No,Yes,Yes,3,3,1,42.07,43.13
+Female,15,Rural,Parents,3,3,11,Public_School,Primary school,High school,Housewife,Farmer,3,4,2,4,4,3.0,4,4,3,1,4,3,4,2,4,4,Yes,No,Yes,Yes,3,1,1,41.07,43.13
+Female,19,Urban,Parents,3,4,12,Public_School,Secondary school,High school,Farmer,Farmer,3,4,5,5,4,4.0,3,3,4,1,4,3,4,2,5,5,Yes,No,Yes,Yes,3,1,1,45.0,43.0
+Male,17,Rural,Parents,2,3,12,Public_School,Primary school,Secondary school,Housewife,Farmer,3,5,5,5,5,5.0,5,5,4,1,4,4,4,2,4,4,No,Yes,Yes,Yes,3,1,1,42.0,43.0
+Male,17,Urban,Parents,2,5,11,Private_School,Bachelor,Bachelor,Private staff,Own business,4,4,4,5,5,3.0,4,4,4,1,3,3,3,1,4,4,Yes,Yes,Yes,Yes,3,1,1,40.0,43.0
+Female,19,Rural,Other,3,4,12,Public_School,Primary school,Primary school,Housewife,Farmer,3,4,5,5,5,5.0,5,5,4,0,5,5,5,1,5,5,Yes,Yes,Yes,Yes,3,1,1,42.0,43.0
+Female,19,Rural,Other,3,4,12,Public_School,Primary school,Primary school,Farmer,Farmer,3,4,4,5,4,4.0,3,5,3,0,4,4,5,1,5,5,Yes,No,Yes,No,2,1,1,40.0,43.0
+Male,19,Urban,Parents,1,5,12,Private_School,Bachelor,High school,Own business,Own business,5,5,5,5,5,5.0,5,5,5,2,5,5,5,1,5,5,Yes,Yes,Yes,Yes,1,1,1,41.0,43.0
+Male,15,Rural,Other,3,4,10,Public_School,Secondary school,High school,Housewife,Other,3,4,4,5,4,3.0,4,5,3,0,5,4,5,1,4,5,Yes,No,Yes,No,2,1,1,34.0,43.0
+Male,16,Rural,Other,3,3,10,Public_School,Secondary school,High school,Housewife,Own business,3,5,4,5,4,4.0,5,5,3,1,5,3,5,1,5,5,Yes,No,Yes,Yes,1,1,1,35.0,43.0
+Male,16,Rural,Parents,4,4,10,Public_School,Illiterate,High school,Farmer,Farmer,2,3,5,4,3,3.0,3,4,3,1,4,4,4,3,4,5,Yes,No,Yes,No,2,1,1,36.47,43.0
+Female,17,Rural,Other,4,2,12,Public_School,Primary school,High school,Farmer,Farmer,3,2,2,4,2,1.0,3,3,3,1,5,2,5,2,3,4,Yes,No,Yes,Yes,5,1,5,38.0,43.0
+Male,18,Rural,Parents,3,3,12,Public_School,Primary school,Primary school,Farmer,Farmer,3,2,3,3,4,2.0,3,3,3,1,4,3,5,1,4,3,Yes,No,No,Yes,1,1,1,43.0,43.0
+Female,17,Rural,Other,4,3,12,Public_School,High school,High school,Other,Other,3,5,5,5,2,5.0,5,5,3,2,5,3,4,3,5,5,Yes,No,Yes,Yes,2,1,1,43.0,43.0
+Female,18,Rural,Parents,6,1,12,Public_School,Primary school,Primary school,Farmer,Farmer,4,3,5,5,5,5.0,5,5,5,1,5,5,5,1,5,5,Yes,Yes,Yes,Yes,1,1,1,43.0,43.0
+Male,16,Rural,Only mother,3,4,11,Public_School,Primary school,Primary school,Housewife,No job,3,3,3,4,4,4.0,4,3,4,0,3,4,5,1,4,4,Yes,No,No,Yes,4,1,1,43.0,43.0
+Male,16,Rural,Only mother,3,4,11,Public_School,Primary school,Primary school,Housewife,No job,3,3,3,4,4,4.0,4,3,4,0,3,4,5,1,4,4,Yes,No,No,Yes,4,1,1,43.0,43.0
+Female,17,Urban,Parents,6,4,11,Private_School,Illiterate,Illiterate,Housewife,Farmer,3,5,4,5,4,3.0,4,5,5,1,3,3,4,2,4,5,Yes,Yes,Yes,Yes,1,1,1,42.0,43.0
+Male,16,Urban,Parents,3,3,10,Public_School,Secondary school,Secondary school,Housewife,Minister,2,3,4,4,4,4.0,4,3,4,0,4,2,4,3,5,5,Yes,Yes,Yes,Yes,4,2,1,44.0,43.0
+Male,18,Rural,Parents,3,4,12,Public_School,Bachelor,Master & PhD,Minister,Minister,3,3,4,5,3,5.0,4,3,4,0,2,3,4,3,5,4,Yes,No,Yes,Yes,4,3,2,42.0,43.0
+Female,15,Rural,Parents,6,3,10,Public_School,Primary school,Primary school,Other,Other,2,4,5,5,2,5.0,2,5,5,0,3,2,2,2,5,5,Yes,No,Yes,No,2,1,1,42.4,43.0
+Male,19,Urban,Parents,2,4,12,Private_School,Primary school,Primary school,Own business,Own business,2,5,5,5,5,5.0,5,5,5,0,2,3,5,4,3,5,Yes,Yes,Yes,Yes,4,3,2,44.0,43.0
+Female,18,Rural,Parents,4,3,12,Public_School,Secondary school,High school,Own business,Own business,3,2,4,5,3,1.0,1,1,2,2,3,3,5,5,4,5,Yes,Yes,Yes,Yes,4,1,2,46.0,43.0
+Male,15,Rural,Parents,4,5,10,Public_School,High school,High school,Own business,Minister,3,3,4,4,4,4.0,4,4,4,0,3,3,4,3,4,5,Yes,Yes,Yes,Yes,1,1,1,45.0,43.0
+Female,19,Rural,Parents,4,3,12,Other Schools,Secondary school,Secondary school,Housewife,Farmer,2,4,5,5,3,2.0,5,5,4,2,3,4,4,1,4,5,Yes,Yes,Yes,Yes,2,1,1,42.8,42.73
+Male,16,Rural,Parents,3,2,11,Public_School,Illiterate,Primary school,Housewife,No job,2,3,4,4,2,2.0,3,3,3,0,2,3,3,2,3,4,Yes,No,Yes,Yes,2,1,1,42.5,42.3
+Male,19,Urban,Only,3,3,12,Public_School,Bachelor,Bachelor,Minister,Minister,3,3,4,4,3,5.0,4,4,4,1,5,4,5,2,4,4,Yes,Yes,Yes,Yes,2,1,1,41.5,42.23
+Female,17,Rural,Parents,3,3,12,Public_School,Primary school,Secondary school,Housewife,Farmer,3,4,3,4,3,3.0,3,3,4,0,5,5,5,1,5,5,Yes,No,Yes,Yes,1,1,1,42.67,42.12
+Female,19,Urban,Parents,3,4,12,Public_School,Secondary school,Illiterate,Farmer,Farmer,4,5,4,5,4,5.0,5,5,4,0,5,4,5,2,4,5,Yes,No,Yes,Yes,4,1,1,42.0,42.0
+Male,17,Rural,Parents,3,4,12,Public_School,Primary school,Illiterate,Farmer,Farmer,3,3,5,4,3,4.0,3,4,5,0,4,3,2,2,3,4,Yes,No,Yes,Yes,3,1,1,40.0,42.0
+Male,17,Rural,Parents,4,3,12,Public_School,Secondary school,High school,Farmer,Farmer,3,4,5,5,5,3.0,5,4,4,0,3,3,4,4,4,4,Yes,Yes,Yes,Yes,3,1,1,40.0,42.0
+Male,19,Urban,Other,3,5,12,Public_School,Primary school,High school,Farmer,Farmer,3,5,3,3,3,4.0,3,4,4,2,4,4,4,1,4,4,Yes,Yes,Yes,Yes,4,1,1,42.0,42.0
+Female,19,Rural,Parents,4,4,12,Public_School,High school,Secondary school,Farmer,Farmer,3,4,5,5,5,5.0,5,5,5,0,5,5,4,1,5,4,Yes,No,Yes,Yes,4,1,1,40.0,42.0
+Male,18,Rural,Other,2,4,12,Public_School,Secondary school,Primary school,Farmer,Farmer,3,4,4,4,3,4.0,4,3,3,2,4,3,5,2,3,4,No,No,Yes,Yes,2,2,1,46.0,42.0
+Female,16,Rural,Parents,3,4,12,Public_School,Secondary school,Secondary school,Other,Other,4,3,5,3,3,3.0,3,3,3,1,5,5,5,3,5,4,Yes,No,Yes,Yes,3,1,1,40.0,42.0
+Female,18,Rural,Parents,3,2,12,Public_School,Primary school,Primary school,Housewife,Farmer,3,5,5,5,5,5.0,5,5,5,0,4,5,5,1,5,5,Yes,No,Yes,Yes,2,1,1,38.0,42.0
+Female,16,Rural,Parents,1,3,11,Public_School,Primary school,Primary school,Own business,Own business,4,5,5,5,5,5.0,5,5,3,1,4,4,5,4,5,5,Yes,No,Yes,Yes,4,1,1,35.0,42.0
+Female,16,Urban,Parents,6,3,11,Private_School,Illiterate,Illiterate,Housewife,Farmer,2,5,5,5,4,3.0,3,5,5,1,4,3,5,2,5,5,Yes,Yes,Yes,Yes,1,1,1,43.0,42.0
+Female,19,Rural,Other,3,4,12,Public_School,Primary school,Primary school,Other,Farmer,3,3,3,4,3,3.0,3,3,3,1,4,3,4,3,4,4,Yes,Yes,Yes,Yes,3,1,1,40.0,42.0
+Male,17,Rural,Parents,4,5,11,Public_School,Primary school,Primary school,Farmer,Farmer,2,4,5,5,2,4.0,5,4,3,0,2,3,5,2,5,5,Yes,No,Yes,Yes,2,1,1,40.0,42.0
+Male,18,Urban,Parents,3,4,12,Public_School,High school,Bachelor,Housewife,Own business,2,5,5,5,5,5.0,5,1,5,0,1,2,3,3,5,5,Yes,Yes,Yes,Yes,4,1,1,40.0,41.89
+Female,16,Rural,Parents,3,4,11,Public_School,Illiterate,Primary school,Housewife,No job,2,3,4,4,2,2.0,3,3,3,0,3,3,3,2,3,4,Yes,No,Yes,Yes,2,1,1,42.0,41.8
+Female,15,Rural,Parents,3,4,10,Public_School,Illiterate,Primary school,Housewife,No job,3,4,4,2,2,3.0,3,3,3,0,3,3,3,4,3,4,Yes,No,Yes,Yes,3,1,1,41.25,41.76
+Male,17,Rural,Parents,4,4,11,Public_School,Primary school,Primary school,Housewife,Farmer,2,5,5,5,5,4.0,5,5,4,0,4,2,4,1,5,5,Yes,No,Yes,Yes,3,1,1,40.0,41.6
+Male,16,Rural,Parents,3,4,11,Public_School,Secondary school,High school,Farmer,Farmer,3,4,4,5,2,2.0,4,4,4,0,3,4,3,1,3,3,Yes,No,Yes,Yes,2,1,1,40.0,41.5
+Male,17,Rural,Parents,4,4,11,Public_School,Secondary school,Secondary school,Housewife,Farmer,2,4,5,5,3,2.0,5,5,4,2,2,3,4,1,4,5,Yes,Yes,Yes,Yes,2,1,1,41.9,41.25
+Male,17,Rural,Parents,4,4,11,Public_School,High school,High school,Own business,Own business,3,3,5,4,5,4.0,5,5,5,0,3,1,4,4,5,3,Yes,Yes,Yes,Yes,3,1,1,40.0,41.25
+Male,18,Urban,Parents,6,4,11,Public_School,Secondary school,High school,Housewife,Own business,3,5,5,5,5,3.0,5,5,5,0,4,2,4,2,4,5,Yes,Yes,Yes,Yes,3,1,1,40.0,41.23
+Female,19,Rural,Only mother,3,3,12,Public_School,Illiterate,Primary school,Housewife,Farmer,3,3,3,3,3,4.0,3,2,5,1,3,3,5,4,3,5,No,Yes,Yes,Yes,3,1,1,40.0,41.0
+Female,18,Rural,Parents,2,3,12,Public_School,Primary school,Secondary school,Housewife,Farmer,2,4,5,5,4,4.0,3,3,3,1,5,4,5,3,5,4,Yes,No,Yes,Yes,2,1,1,42.0,41.0
+Female,17,Rural,Parents,3,4,12,Public_School,Primary school,High school,Housewife,Own business,3,5,5,5,4,4.0,3,5,3,0,3,3,4,4,4,5,Yes,No,Yes,Yes,1,1,1,39.0,41.0
+Female,16,Rural,Parents,4,4,12,Public_School,Primary school,High school,Farmer,Farmer,3,4,3,5,3,4.0,4,5,3,0,4,2,5,5,5,5,Yes,No,Yes,Yes,2,1,1,41.0,41.0
+Male,15,Rural,Only,2,5,11,Public_School,Secondary school,Secondary school,Housewife,Other,3,4,5,5,2,4.0,2,5,3,1,4,2,4,3,3,5,Yes,No,Yes,Yes,4,1,1,41.0,41.0
+Female,18,Urban,Parents,4,4,12,Public_School,High school,High school,Farmer,Farmer,2,2,3,4,2,3.0,2,4,3,0,3,3,4,2,4,4,No,No,Yes,Yes,2,1,1,39.0,41.0
+Female,18,Urban,Parents,4,4,12,Private_School,Primary school,Bachelor,Housewife,Own business,3,5,5,5,5,4.0,4,4,4,1,4,4,5,3,5,3,Yes,Yes,Yes,Yes,3,1,1,40.0,41.0
+Male,18,Rural,Parents,6,5,12,Public_School,Primary school,Secondary school,Housewife,Farmer,2,5,5,5,4,4.0,3,4,4,0,5,2,4,1,5,5,Yes,Yes,Yes,Yes,3,1,1,42.0,41.0
+Male,17,Urban,Parents,3,4,11,Private_School,Primary school,Bachelor,Own business,Minister,3,2,3,5,3,2.0,1,2,2,2,3,2,3,2,4,2,Yes,No,Yes,Yes,2,1,2,40.0,41.0
+Male,17,Rural,Parents,6,4,11,Private_School,Secondary school,High school,Housewife,Own business,3,5,5,5,3,5.0,5,5,5,0,3,4,4,2,4,5,Yes,Yes,Yes,Yes,2,1,1,40.8,41.0
+Male,17,Rural,Only mother,3,5,11,Public_School,Secondary school,High school,Private staff,Own business,2,4,4,4,5,5.0,5,5,4,1,3,2,3,3,4,4,Yes,Yes,Yes,Yes,3,1,2,40.0,41.0
+Male,16,Rural,Parents,4,4,11,Public_School,Secondary school,High school,Own business,Own business,2,4,4,4,5,5.0,5,5,4,1,3,2,3,3,4,4,Yes,Yes,Yes,Yes,2,1,1,40.12,40.96
+Male,14,Rural,Parents,4,5,10,Public_School,High school,High school,Housewife,Other,2,3,4,5,4,4.0,4,3,3,0,3,3,1,2,2,3,Yes,Yes,Yes,Yes,2,1,1,40.0,40.2
+Male,19,Rural,Parents,3,3,12,Public_School,Secondary school,Primary school,Own business,Own business,3,3,4,5,3,3.0,4,4,3,1,4,3,4,2,4,4,Yes,Yes,Yes,Yes,2,2,1,40.0,40.0
+Male,19,Urban,Parents,2,4,12,Public_School,Master & PhD,Secondary school,Minister,Other,3,5,5,4,5,2.0,4,3,4,1,5,3,3,2,4,3,Yes,Yes,Yes,Yes,3,1,1,40.0,40.0
+Female,19,Rural,Parents,6,2,12,Public_School,Primary school,Primary school,Own business,Own business,2,3,3,4,3,3.0,2,2,2,0,4,3,4,2,2,4,Yes,Yes,Yes,Yes,4,1,1,35.0,40.0
+Male,18,Urban,Parents,3,5,12,Private_School,Primary school,Bachelor,Own business,Minister,3,1,3,4,3,3.0,3,2,4,0,4,3,4,2,5,4,Yes,Yes,Yes,Yes,2,1,1,40.0,40.0
+Male,18,Urban,Only mother,2,3,12,Public_School,Bachelor,Bachelor,Own business,Other,3,4,4,4,4,4.0,4,4,4,1,5,4,4,4,4,4,Yes,Yes,Yes,Yes,4,2,2,40.0,40.0
+Female,19,Urban,Other,2,3,12,Public_School,Primary school,Primary school,Private staff,Other,3,4,5,5,3,4.0,4,3,5,1,4,3,4,4,4,4,Yes,Yes,Yes,Yes,3,1,2,47.0,40.0
+Male,17,Rural,Only mother,3,3,12,Public_School,Primary school,Primary school,Housewife,Own business,3,4,4,4,5,3.0,3,3,4,1,4,4,5,4,5,5,No,No,Yes,Yes,2,1,1,41.0,40.0
+Male,19,Rural,Other,3,3,12,Public_School,Primary school,High school,Farmer,Farmer,3,2,5,5,3,3.0,2,4,4,1,4,2,5,1,4,4,No,No,No,Yes,2,1,1,40.0,40.0
+Female,19,Rural,Parents,3,3,12,Public_School,High school,Primary school,Minister,Farmer,3,5,5,5,5,5.0,5,5,4,1,4,4,5,2,4,4,Yes,Yes,Yes,Yes,3,1,1,30.0,40.0
+Male,19,Urban,Parents,3,5,12,Public_School,High school,High school,Own business,Minister,2,3,4,5,3,3.0,5,4,4,1,3,3,4,2,4,3,Yes,No,Yes,Yes,4,2,3,40.0,40.0
+Female,15,Rural,Parents,3,3,10,Public_School,Primary school,Secondary school,Own business,Other,3,2,3,3,2,4.0,2,1,3,0,2,3,4,3,4,5,Yes,No,No,Yes,2,1,1,39.0,40.0
+Female,15,Rural,Parents,2,3,10,Public_School,High school,High school,Other,Other,3,5,4,5,5,4.0,3,4,3,1,5,3,4,2,5,4,Yes,No,Yes,Yes,4,1,1,40.0,40.0
+Female,15,Rural,Parents,2,3,10,Public_School,Primary school,Illiterate,Other,Farmer,3,3,5,5,3,3.0,4,5,3,0,4,4,4,1,5,5,Yes,No,Yes,Yes,4,1,1,38.56,40.0
+Female,17,Rural,Parents,2,5,12,Private_School,Primary school,Primary school,Farmer,Farmer,2,4,5,5,4,4.0,4,5,5,1,5,5,5,4,5,5,Yes,Yes,Yes,Yes,1,1,1,40.0,40.0
+Female,15,Rural,Parents,2,3,10,Public_School,Primary school,High school,Housewife,Farmer,3,4,4,4,3,4.0,3,3,1,0,5,2,4,2,4,2,Yes,Yes,Yes,Yes,1,1,1,42.0,40.0
+Male,17,Rural,Parents,2,3,11,Public_School,High school,High school,Farmer,Farmer,4,4,4,5,4,5.0,5,5,5,2,5,5,5,5,5,3,Yes,Yes,Yes,Yes,5,1,1,40.0,40.0
+Male,16,Rural,Parents,2,3,12,Public_School,Primary school,Primary school,Own business,Farmer,4,3,3,3,3,3.0,1,5,3,1,4,3,5,1,5,5,Yes,Yes,Yes,Yes,1,1,1,40.0,40.0
+Female,17,Rural,Parents,2,5,12,Public_School,Secondary school,Secondary school,Private staff,Own business,3,5,5,5,5,5.0,4,4,5,1,4,4,4,4,5,4,Yes,Yes,Yes,Yes,3,1,1,42.0,40.0
+Male,18,Rural,Parents,4,4,12,Public_School,Primary school,Primary school,Farmer,Farmer,3,4,5,5,4,5.0,4,4,5,1,4,1,4,3,4,4,Yes,No,No,No,5,1,1,40.0,40.0
+Female,18,Rural,Parents,3,4,12,Public_School,Primary school,Primary school,Farmer,Farmer,2,4,4,4,4,4.0,4,4,4,1,3,3,4,3,4,5,Yes,No,Yes,Yes,1,1,1,40.0,40.0
+Female,17,Rural,Other,4,3,12,Public_School,Illiterate,High school,Farmer,Farmer,3,4,3,3,3,3.0,3,3,2,2,4,3,4,4,4,4,Yes,Yes,Yes,Yes,3,1,1,40.0,40.0
+Female,16,Rural,Parents,2,3,12,Public_School,Primary school,Primary school,Own business,Own business,3,3,3,3,3,3.0,3,3,3,1,3,3,3,3,3,3,Yes,No,No,Yes,3,3,3,40.0,40.0
+Female,18,Rural,Parents,3,3,12,Public_School,Secondary school,Secondary school,Housewife,Farmer,2,3,3,4,3,3.0,3,4,4,1,4,4,3,1,4,4,Yes,No,Yes,Yes,3,1,1,40.0,40.0
+Female,17,Rural,Parents,2,4,12,Public_School,Primary school,Primary school,Own business,Farmer,3,5,5,5,5,5.0,5,5,5,1,5,3,5,1,3,4,Yes,No,Yes,Yes,2,1,1,42.0,40.0
+Female,17,Rural,Parents,3,5,11,Public_School,Primary school,Primary school,Own business,Own business,3,4,3,5,4,5.0,3,3,5,1,4,2,5,3,5,5,Yes,Yes,Yes,Yes,4,1,1,45.0,40.0
+Female,16,Rural,Parents,6,3,11,Public_School,High school,High school,Housewife,Farmer,3,3,4,4,2,4.0,2,3,4,1,3,3,4,2,3,4,Yes,No,Yes,Yes,1,1,1,35.0,40.0
+Male,17,Rural,Parents,2,1,11,Public_School,Secondary school,Secondary school,Housewife,Farmer,2,5,3,5,2,2.0,2,4,3,1,5,5,5,1,5,5,Yes,No,Yes,Yes,3,2,1,40.0,40.0
+Female,17,Rural,Parents,3,3,12,Public_School,Primary school,Primary school,Own business,Farmer,2,2,3,3,3,3.0,3,3,3,0,3,3,2,2,2,3,No,Yes,Yes,Yes,3,1,1,35.0,40.0
+Male,17,Rural,Parents,3,3,11,Public_School,Secondary school,Secondary school,Farmer,Farmer,3,4,4,4,4,4.0,3,4,3,0,4,4,4,1,5,5,Yes,No,Yes,Yes,5,1,1,41.0,40.0
+Female,16,Rural,Parents,2,3,11,Public_School,Secondary school,Secondary school,Housewife,Farmer,3,5,5,3,4,4.0,3,5,3,1,4,4,4,2,5,4,Yes,No,Yes,Yes,2,1,1,40.0,40.0
+Female,17,Rural,Parents,4,2,10,Public_School,Primary school,Secondary school,Housewife,Farmer,2,3,3,4,2,3.0,2,3,2,1,4,3,2,3,4,4,No,No,No,Yes,4,1,1,35.0,40.0
+Male,16,Urban,Parents,3,5,10,Public_School,High school,Secondary school,Private staff,Other,5,1,1,3,4,4.0,4,4,5,0,4,5,3,5,4,4,Yes,No,Yes,Yes,2,1,1,40.0,40.0
+Female,17,Rural,Only,2,2,11,Public_School,Primary school,Secondary school,Own business,Own business,3,4,4,4,5,5.0,3,5,4,0,3,2,4,2,5,5,Yes,No,Yes,Yes,1,1,1,44.0,40.0
+Male,16,Rural,Parents,3,4,11,Public_School,Secondary school,Secondary school,Housewife,Farmer,2,4,5,5,3,2.0,5,5,4,2,4,2,4,1,4,5,Yes,Yes,Yes,No,2,2,1,39.0,40.0
+Female,17,Urban,Parents,3,3,12,Public_School,Secondary school,Primary school,Housewife,Farmer,3,4,5,5,4,3.0,2,3,4,0,5,3,3,5,3,3,Yes,No,Yes,Yes,5,2,3,40.45,39.43
+Male,19,Rural,Parents,6,5,11,Public_School,Primary school,Secondary school,Farmer,Farmer,3,3,3,4,4,4.0,4,3,4,0,3,3,4,1,2,4,No,No,Yes,Yes,1,5,1,35.0,39.0
+Female,17,Rural,Parents,2,1,12,Public_School,Primary school,High school,Farmer,Farmer,3,3,5,4,2,2.0,3,3,3,1,3,3,3,1,3,3,Yes,No,Yes,Yes,3,1,1,41.0,39.0
+Male,18,Rural,Parents,6,2,12,Public_School,Bachelor,Secondary school,Farmer,Farmer,3,5,5,5,5,3.0,5,4,2,0,4,2,2,3,4,3,Yes,No,Yes,Yes,2,2,1,25.0,39.0
+Male,18,Rural,Parents,6,5,12,Public_School,Illiterate,High school,Farmer,Farmer,3,5,5,5,5,5.0,5,5,3,0,4,4,5,5,5,5,Yes,No,No,Yes,3,1,1,40.0,39.0
+Female,16,Rural,Parents,6,5,10,Public_School,Primary school,Primary school,Own business,Farmer,3,5,5,5,5,5.0,5,5,3,0,4,3,5,4,4,4,Yes,No,Yes,Yes,2,1,1,38.0,39.0
+Male,14,Rural,Parents,1,4,10,Public_School,Secondary school,Bachelor,Housewife,Minister,3,5,5,5,5,4.0,4,5,4,1,5,4,4,2,5,5,Yes,No,Yes,Yes,3,1,1,27.0,39.0
+Female,18,Rural,Parents,4,3,12,Public_School,Secondary school,Primary school,Housewife,Farmer,3,5,4,5,4,2.0,4,5,3,0,3,3,3,2,5,5,Yes,No,Yes,Yes,2,1,1,40.0,39.0
+Female,16,Rural,Parents,2,3,12,Public_School,Primary school,Secondary school,Housewife,Farmer,3,4,5,5,4,1.0,4,4,4,1,4,5,3,2,4,5,Yes,No,Yes,Yes,3,1,1,39.0,39.0
+Female,18,Rural,Parents,4,1,12,Public_School,Primary school,Secondary school,Farmer,Farmer,3,3,3,3,3,3.0,3,3,3,0,5,4,4,2,3,4,Yes,No,Yes,Yes,3,1,1,45.0,39.0
+Male,15,Rural,Parents,2,1,11,Public_School,Secondary school,Primary school,Housewife,Own business,3,4,3,3,3,2.0,2,2,3,1,2,4,4,2,4,4,Yes,No,No,Yes,4,1,1,40.0,39.0
+Female,15,Rural,Parents,2,4,11,Public_School,Primary school,Primary school,Own business,Own business,4,3,5,4,5,5.0,4,5,3,1,4,4,5,1,4,5,Yes,No,Yes,No,3,1,1,35.0,39.0
+Male,15,Rural,Parents,2,2,11,Public_School,Primary school,High school,Housewife,Own business,3,2,5,4,3,4.0,5,5,5,0,4,2,4,2,4,4,Yes,No,Yes,Yes,2,1,1,39.0,39.0
+Male,17,Urban,Parents,3,4,11,Public_School,Primary school,Primary school,Private staff,Other,2,3,3,3,2,2.0,3,3,3,0,3,2,4,2,3,4,Yes,No,Yes,Yes,2,1,1,32.5,39.0
+Male,16,Rural,Parents,3,4,11,Public_School,Secondary school,Primary school,Own business,Own business,2,2,4,5,4,4.0,3,3,4,0,3,2,3,2,4,5,Yes,No,No,Yes,3,1,1,38.0,39.0
+Male,15,Rural,Parents,2,3,12,Public_School,Secondary school,Primary school,Housewife,Farmer,3,3,3,4,4,5.0,5,5,3,1,3,3,3,2,4,5,Yes,No,Yes,No,5,1,1,40.0,38.73
+Male,17,Urban,Parents,4,5,11,Private_School,High school,Bachelor,Private staff,Own business,3,5,3,5,2,1.0,1,1,4,0,4,2,4,4,4,5,Yes,No,Yes,Yes,3,1,2,37.5,38.5
+Male,18,Rural,Parents,4,5,11,Public_School,Primary school,Secondary school,Housewife,Farmer,2,3,2,3,2,2.0,4,4,3,1,3,3,3,2,3,3,Yes,No,Yes,Yes,2,1,1,37.5,38.5
+Male,18,Urban,Parents,4,4,11,Private_School,Bachelor,Bachelor,Private staff,Private staff,3,4,5,5,3,5.0,4,4,3,2,3,2,5,2,4,4,Yes,Yes,Yes,Yes,2,1,1,37.5,38.5
+Male,19,Rural,Parents,6,4,12,Public_School,Primary school,Secondary school,Housewife,Farmer,2,2,5,5,2,4.0,5,3,3,0,2,2,2,3,2,3,Yes,No,Yes,Yes,2,1,1,37.5,38.5
+Female,16,Rural,Other,3,3,11,Public_School,Illiterate,Primary school,Other,Other,3,2,4,5,3,1.0,1,1,3,0,4,3,5,1,5,5,Yes,No,Yes,Yes,2,1,1,39.0,38.0
+Female,19,Rural,Other,2,3,12,Public_School,Secondary school,Secondary school,Farmer,Farmer,2,4,5,5,5,5.0,4,5,4,2,4,4,4,2,4,4,No,No,Yes,Yes,3,1,1,39.0,38.0
+Male,19,Rural,Parents,6,3,12,Public_School,High school,High school,Farmer,Farmer,3,4,4,5,5,4.0,4,5,5,1,4,4,4,2,4,4,Yes,No,Yes,Yes,4,2,2,40.0,38.0
+Male,15,Rural,Parents,2,4,10,Public_School,Primary school,Primary school,Housewife,Own business,3,4,5,5,3,3.0,4,4,3,1,4,3,5,1,5,5,Yes,No,Yes,Yes,3,1,1,38.0,38.0
+Male,15,Rural,Parents,2,4,10,Public_School,Primary school,Primary school,Housewife,Own business,3,4,5,5,4,4.0,4,5,3,1,4,3,5,1,5,5,Yes,No,Yes,Yes,3,1,1,38.0,38.0
+Male,16,Rural,Parents,3,2,10,Private_School,High school,Bachelor,Housewife,Farmer,4,4,5,5,4,5.0,5,5,3,1,2,5,5,4,4,4,Yes,No,Yes,Yes,5,1,1,34.0,38.0
+Male,18,Rural,Parents,6,5,12,Public_School,Primary school,Secondary school,Farmer,Farmer,2,3,3,4,3,3.0,3,3,3,0,3,2,3,3,3,3,Yes,Yes,Yes,Yes,4,1,2,37.5,38.0
+Male,17,Rural,Parents,4,4,11,Public_School,Primary school,Secondary school,Housewife,Farmer,2,3,3,3,3,3.0,3,3,3,0,3,3,3,4,4,4,Yes,Yes,Yes,Yes,2,1,1,37.5,38.0
+Male,16,Rural,Parents,3,4,11,Public_School,Secondary school,Secondary school,Housewife,Minister,1,3,5,5,3,3.0,4,1,1,0,2,3,2,3,2,5,No,No,No,Yes,1,1,1,37.5,38.0
+Female,19,Rural,Parents,4,4,12,Public_School,High school,Secondary school,Minister,Farmer,3,4,5,5,4,3.0,3,4,4,0,3,3,4,1,4,4,No,No,Yes,Yes,2,1,1,37.5,38.0
+Male,17,Urban,Parents,4,4,11,Private_School,Secondary school,Secondary school,Minister,Private staff,3,4,4,5,3,4.0,3,3,4,0,3,2,5,2,5,5,Yes,Yes,Yes,Yes,2,1,2,37.5,38.0
+Male,15,Rural,Parents,4,4,10,Public_School,Primary school,Primary school,Farmer,Farmer,1,3,3,3,3,3.0,3,3,5,2,1,4,4,1,2,4,No,No,Yes,Yes,3,1,1,37.5,38.0
+Male,17,Rural,Parents,3,4,11,Public_School,High school,Secondary school,Minister,Farmer,3,4,5,5,4,3.0,3,4,4,0,3,3,4,1,4,4,No,No,Yes,Yes,2,1,1,37.5,38.0
+Male,18,Urban,Parents,3,4,11,Public_School,Secondary school,Primary school,Private staff,Own business,3,3,4,5,3,5.0,5,4,3,0,3,3,4,1,4,4,Yes,No,Yes,Yes,2,1,1,37.0,37.5
+Male,19,Urban,Parents,4,3,12,Public_School,Bachelor,Bachelor,Private staff,Other,3,4,4,5,3,3.0,4,4,3,0,4,4,4,3,4,3,Yes,No,Yes,Yes,3,2,1,39.0,37.0
+Female,15,Rural,Parents,2,2,11,Public_School,Primary school,Secondary school,Housewife,Farmer,3,3,3,3,3,3.0,3,3,3,1,3,3,3,3,3,3,Yes,No,Yes,Yes,3,2,2,35.0,37.0
+Male,18,Urban,Other,3,3,12,Public_School,High school,High school,Private staff,Private staff,3,5,5,4,4,2.0,3,5,5,1,2,2,5,5,5,4,Yes,Yes,Yes,Yes,2,1,1,35.0,37.0
+Male,16,Urban,Parents,2,4,11,Public_School,Primary school,High school,Private staff,Private staff,2,4,5,5,2,5.0,4,3,4,0,3,2,5,1,4,5,Yes,No,Yes,Yes,2,1,1,35.0,37.0
+Female,19,Urban,Parents,3,3,12,Public_School,Primary school,Primary school,Housewife,Other,3,4,5,5,3,4.0,4,4,3,2,4,4,4,1,4,4,Yes,Yes,Yes,Yes,3,1,1,36.0,36.0
+Male,16,Rural,Only mother,6,4,10,Public_School,Secondary school,High school,Housewife,Other,3,3,5,5,5,5.0,4,5,3,0,3,4,5,4,4,5,Yes,No,Yes,Yes,5,1,1,35.0,36.0
+Male,17,Rural,Parents,1,5,11,Public_School,Illiterate,Primary school,Housewife,Farmer,3,5,3,5,3,3.0,5,3,2,0,4,3,5,3,3,5,Yes,No,Yes,Yes,3,1,1,33.0,36.0
+Female,17,Rural,Parents,3,3,11,Public_School,Secondary school,High school,Other,No job,3,2,3,4,4,4.0,4,2,1,0,4,4,5,2,5,5,Yes,No,Yes,Yes,5,1,1,37.0,36.0
+Male,17,Rural,Parents,4,4,11,Public_School,Illiterate,High school,Private staff,Other,3,3,3,3,3,3.0,3,3,3,1,3,3,4,4,4,4,Yes,No,Yes,No,2,2,1,36.0,36.0
+Male,17,Rural,Only mother,4,2,11,Public_School,Illiterate,High school,Farmer,Farmer,3,3,3,3,3,3.0,3,3,3,1,3,3,4,2,2,2,Yes,No,No,No,2,2,1,36.0,36.0
+Male,15,Rural,Parents,4,4,10,Public_School,Primary school,Primary school,Farmer,Farmer,2,2,2,5,3,3.0,3,4,4,0,2,3,5,1,5,3,Yes,Yes,Yes,Yes,4,1,1,27.5,36.0
+Male,17,Urban,Parents,3,5,11,Private_School,Bachelor,Bachelor,Own business,Minister,5,4,5,2,2,2.0,2,3,5,0,2,3,3,2,3,3,Yes,Yes,Yes,Yes,3,1,1,37.0,36.0
+Male,17,Urban,Parents,4,4,11,Private_School,Secondary school,Secondary school,Minister,Private staff,3,4,4,5,3,4.0,3,3,4,0,3,3,5,2,5,5,Yes,Yes,Yes,Yes,3,3,1,37.5,36.0
+Male,16,Rural,Parents,4,4,11,Other Schools,Primary school,Secondary school,Housewife,Own business,2,3,4,5,3,3.0,2,1,3,0,3,4,4,4,5,5,Yes,No,Yes,Yes,2,1,1,31.5,35.9
+Female,16,Rural,Parents,4,3,11,Public_School,Primary school,Primary school,Housewife,Farmer,3,4,4,4,4,4.0,4,4,3,0,4,3,4,2,3,3,Yes,Yes,Yes,Yes,1,1,1,35.33,35.33
+Female,17,Rural,Parents,2,3,12,Public_School,Illiterate,High school,Housewife,Farmer,3,3,4,3,3,5.0,3,3,4,1,5,3,4,4,4,5,Yes,No,Yes,No,3,1,1,36.0,35.2
+Female,16,Urban,Parents,3,4,11,Public_School,Secondary school,Secondary school,Housewife,Minister,2,2,3,3,3,4.0,4,4,3,2,3,4,3,1,4,5,Yes,Yes,Yes,Yes,3,1,1,34.8,35.2
+Male,19,Rural,Parents,4,5,12,Public_School,Secondary school,High school,Farmer,Farmer,2,5,4,5,5,5.0,4,4,4,0,4,4,4,2,4,4,Yes,Yes,Yes,Yes,4,1,1,35.0,35.0
+Male,19,Rural,Parents,1,5,12,Public_School,Primary school,Primary school,Farmer,Farmer,3,5,5,5,5,5.0,4,5,5,1,5,5,5,1,4,5,Yes,Yes,Yes,Yes,4,1,1,40.0,35.0
+Female,18,Rural,Parents,3,4,12,Public_School,High school,High school,Own business,Own business,3,5,5,5,5,5.0,5,5,5,1,5,3,4,1,4,4,Yes,No,Yes,Yes,2,1,1,35.0,35.0
+Male,19,Urban,Parents,4,3,12,Public_School,High school,High school,Minister,Other,3,5,5,4,3,4.0,4,4,3,0,3,4,3,4,3,4,Yes,Yes,Yes,Yes,5,5,3,35.0,35.0
+Male,19,Urban,Parents,6,4,12,Public_School,Illiterate,High school,Farmer,Farmer,3,3,4,5,4,5.0,4,5,3,1,4,3,4,2,3,4,Yes,No,Yes,Yes,2,1,1,35.0,35.0
+Male,19,Rural,Parents,4,3,12,Other Schools,Primary school,Primary school,Farmer,Farmer,4,4,3,4,3,3.0,3,3,2,2,3,3,3,2,3,3,Yes,No,No,Yes,4,1,2,35.0,35.0
+Female,15,Rural,Parents,2,2,10,Public_School,Illiterate,Primary school,Other,Farmer,3,5,4,5,5,3.0,3,4,4,1,4,3,4,2,5,4,Yes,No,Yes,Yes,2,1,1,29.0,35.0
+Female,16,Rural,Parents,4,3,10,Public_School,Primary school,Primary school,Other,Other,3,5,5,4,5,4.0,4,4,3,1,2,3,4,3,4,4,Yes,No,Yes,Yes,4,1,1,35.0,35.0
+Male,18,Rural,Parents,2,5,12,Public_School,High school,High school,Own business,Own business,3,3,3,3,3,3.0,3,4,4,2,2,3,2,1,1,1,Yes,No,Yes,No,2,1,2,35.0,35.0
+Female,17,Rural,Parents,6,3,12,Public_School,Primary school,Primary school,Housewife,Farmer,2,2,4,5,3,5.0,4,4,2,0,3,4,5,3,5,3,Yes,No,Yes,Yes,5,1,1,40.0,35.0
+Female,18,Rural,Parents,2,3,12,Public_School,High school,Secondary school,Housewife,Farmer,3,4,4,5,5,4.0,3,4,5,0,5,5,5,4,4,5,Yes,No,Yes,No,5,3,2,40.0,35.0
+Female,18,Rural,Parents,2,3,12,Public_School,Primary school,Primary school,Farmer,Farmer,3,4,4,4,3,4.0,3,3,3,0,3,3,4,2,4,4,Yes,No,Yes,Yes,3,2,1,35.0,35.0
+Male,18,Rural,Parents,2,3,12,Public_School,Secondary school,Secondary school,Own business,Own business,4,2,2,2,2,2.0,3,1,3,2,2,2,2,2,2,2,Yes,No,Yes,No,2,1,2,30.0,35.0
+Male,15,Rural,Parents,2,3,12,Public_School,Illiterate,Secondary school,Farmer,Farmer,2,5,5,5,4,4.0,4,4,5,0,3,3,5,1,4,4,Yes,No,Yes,Yes,4,1,1,35.0,35.0
+Male,19,Rural,Parents,3,4,12,Public_School,Illiterate,Primary school,Farmer,Farmer,1,4,3,4,4,4.0,4,4,3,0,4,5,5,3,5,5,Yes,No,Yes,Yes,3,1,1,35.0,35.0
+Male,17,Rural,Parents,3,4,11,Public_School,Primary school,Primary school,Housewife,Farmer,3,4,4,4,3,4.0,3,3,4,1,5,3,3,2,4,4,Yes,No,Yes,Yes,3,1,1,35.0,35.0
+Male,17,Rural,Parents,1,1,11,Private_School,Secondary school,Secondary school,Housewife,Farmer,1,5,5,5,5,5.0,1,1,1,0,1,1,1,1,1,1,No,No,No,No,5,1,1,35.0,35.0
+Female,19,Rural,Parents,2,3,12,Public_School,High school,Secondary school,Housewife,Farmer,3,3,3,4,3,3.0,3,2,4,0,4,3,4,3,4,4,Yes,No,Yes,Yes,3,1,1,30.0,35.0
+Female,17,Rural,Parents,2,1,11,Private_School,Secondary school,Primary school,Private staff,Farmer,2,1,1,1,1,3.0,2,1,2,1,2,1,2,2,1,3,No,No,No,Yes,2,2,2,36.0,35.0
+Female,16,Rural,Parents,3,2,11,Public_School,Secondary school,Secondary school,Other,Other,3,4,5,4,3,5.0,3,5,3,1,3,3,3,2,3,3,Yes,Yes,Yes,Yes,2,1,1,30.0,35.0
+Female,18,Rural,Parents,3,1,11,Public_School,Illiterate,Secondary school,Housewife,Farmer,3,5,4,5,5,5.0,5,4,5,1,5,4,5,2,5,5,Yes,No,Yes,No,2,1,1,27.0,35.0
+Female,17,Rural,Parents,4,4,11,Public_School,Primary school,Illiterate,Farmer,Farmer,1,5,5,5,4,4.0,4,5,4,0,5,3,5,2,5,5,No,No,No,No,2,1,1,36.0,35.0
+Male,19,Rural,Parents,1,5,12,Public_School,Illiterate,Primary school,Housewife,Own business,2,4,4,4,3,3.0,3,3,3,0,2,3,3,2,4,4,Yes,No,Yes,Yes,2,1,1,28.0,35.0
+Male,19,Urban,Parents,4,4,12,Public_School,High school,Bachelor,Minister,Minister,2,3,3,3,3,3.0,3,3,3,2,3,3,3,2,3,5,No,No,No,Yes,1,1,1,34.5,35.0
+Female,18,Rural,Parents,4,4,11,Public_School,Primary school,Primary school,Housewife,No job,2,4,3,5,3,5.0,5,5,3,0,3,2,5,2,3,4,Yes,No,Yes,Yes,2,1,1,34.5,35.0
+Female,19,Rural,Parents,3,4,12,Public_School,Primary school,Primary school,Farmer,Farmer,3,5,5,5,5,5.0,5,5,5,1,5,5,5,2,5,5,Yes,Yes,Yes,Yes,2,1,1,29.92,34.48
+Female,17,Rural,Parents,2,1,12,Public_School,Illiterate,High school,Housewife,Other,4,2,3,3,2,3.0,2,2,3,1,3,3,4,2,4,3,Yes,Yes,Yes,Yes,2,1,1,35.0,34.0
+Male,16,Rural,Parents,4,3,10,Public_School,Primary school,Primary school,Own business,Farmer,3,4,4,4,3,3.0,3,3,3,0,4,4,5,4,5,5,Yes,No,Yes,Yes,3,1,1,30.0,34.0
+Female,17,Rural,Parents,4,2,11,Public_School,Illiterate,Secondary school,Housewife,Private staff,2,5,5,5,4,4.0,4,3,4,0,4,2,5,5,5,4,Yes,No,No,Yes,2,1,1,36.0,34.0
+Male,18,Rural,Parents,2,1,12,Public_School,Illiterate,Illiterate,Housewife,Farmer,1,5,5,5,5,1.0,5,5,5,0,5,5,5,5,5,5,No,No,Yes,Yes,5,1,1,32.56,33.59
+Male,17,Urban,Parents,3,4,11,Private_School,Primary school,Primary school,Private staff,Private staff,3,3,4,5,4,5.0,5,4,4,1,3,2,4,2,5,4,Yes,Yes,Yes,Yes,2,1,1,32.5,33.5
+Male,16,Rural,Parents,6,3,10,Public_School,Illiterate,Secondary school,Housewife,Other,3,3,3,4,3,3.0,3,3,3,1,2,3,3,1,2,3,Yes,No,Yes,No,2,1,1,35.0,33.0
+Male,17,Urban,Parents,3,4,11,Private_School,High school,Bachelor,Housewife,Minister,4,5,4,5,5,4.0,3,5,5,0,3,3,5,1,4,4,Yes,Yes,Yes,Yes,2,1,1,35.0,33.0
+Male,17,Urban,Parents,3,5,11,Private_School,Primary school,Bachelor,Own business,Private staff,4,3,5,4,4,4.0,3,4,4,0,1,4,2,2,2,3,Yes,Yes,Yes,No,3,1,1,32.0,33.0
+Female,15,Rural,Parents,3,4,10,Public_School,Primary school,Secondary school,Farmer,Farmer,2,3,3,2,2,2.0,1,2,2,0,3,4,5,1,2,5,Yes,No,Yes,Yes,2,1,1,32.0,33.0
+Male,16,Rural,Parents,4,4,11,Public_School,Illiterate,Primary school,Own business,Farmer,3,2,4,4,3,4.0,4,5,4,1,4,4,4,5,5,3,Yes,No,Yes,Yes,3,1,1,32.78,32.78
+Male,16,Rural,Parents,4,4,11,Public_School,Illiterate,Illiterate,Own business,Farmer,3,3,4,4,3,3.0,4,4,3,1,4,4,4,4,5,4,Yes,No,Yes,Yes,3,1,1,32.78,32.39
+Male,15,Rural,Parents,3,2,10,Private_School,Primary school,Secondary school,Own business,Own business,3,2,5,5,4,5.0,5,5,3,1,4,3,4,4,3,3,Yes,Yes,Yes,Yes,5,2,1,40.0,32.24
+Male,15,Rural,Parents,3,4,10,Public_School,Secondary school,Primary school,Other,Other,3,4,4,5,3,4.0,4,5,4,1,4,3,5,1,5,5,Yes,Yes,Yes,Yes,2,1,1,35.36,32.22
+Female,15,Rural,Parents,6,3,10,Public_School,Secondary school,Illiterate,Other,Other,2,4,4,5,5,5.0,5,4,3,0,4,4,5,2,3,3,Yes,No,No,Yes,1,1,1,32.0,32.0
+Male,16,Rural,Parents,3,3,12,Public_School,Secondary school,High school,Own business,Farmer,3,5,4,5,5,4.0,4,5,5,1,3,4,5,4,5,5,Yes,Yes,Yes,Yes,5,1,1,30.0,32.0
+Male,19,Rural,Parents,2,1,12,Public_School,High school,High school,Farmer,Farmer,3,4,3,4,4,5.0,1,5,1,0,1,1,5,2,5,5,Yes,No,Yes,Yes,5,1,3,28.0,32.0
+Female,16,Rural,Parents,3,2,11,Public_School,Illiterate,Secondary school,Farmer,Farmer,3,4,5,5,3,4.0,3,4,1,1,5,4,5,3,4,5,Yes,Yes,Yes,Yes,3,1,1,30.0,32.0
+Male,15,Rural,Parents,6,3,10,Public_School,Illiterate,Illiterate,Farmer,Farmer,3,2,4,3,3,3.0,3,3,3,1,2,3,2,2,2,2,No,No,No,Yes,2,1,1,28.33,31.34
+Female,17,Rural,Parents,3,3,11,Public_School,Primary school,High school,Farmer,Farmer,2,4,4,4,2,2.0,5,2,3,0,3,3,4,1,5,5,Yes,No,Yes,Yes,1,1,1,32.0,31.0
+Male,16,Rural,Parents,6,3,10,Public_School,Secondary school,Secondary school,Farmer,Farmer,3,4,4,4,4,3.0,3,4,4,0,5,4,5,3,4,3,No,No,Yes,Yes,3,1,1,30.1,30.25
+Female,15,Rural,Other,6,3,10,Public_School,Secondary school,Secondary school,Housewife,Own business,4,4,4,4,2,3.0,4,4,4,1,4,4,5,1,4,4,Yes,No,Yes,Yes,3,1,1,29.7,30.1
+Male,16,Rural,Parents,3,3,10,Public_School,Primary school,Primary school,Farmer,Farmer,4,4,4,4,4,4.0,4,4,4,1,3,3,4,3,3,3,No,No,Yes,Yes,3,2,2,30.1,30.1
+Male,16,Rural,Parents,3,3,10,Public_School,Primary school,Primary school,Farmer,Farmer,4,3,3,4,4,4.0,4,4,3,1,3,3,3,3,3,3,No,No,No,Yes,3,3,3,30.1,30.1
+Male,19,Urban,Other,4,4,12,Public_School,Bachelor,Secondary school,Farmer,Farmer,3,4,3,5,4,4.0,4,5,4,2,4,4,2,2,4,4,Yes,Yes,Yes,Yes,3,1,1,35.0,30.0
+Male,19,Rural,Parents,4,3,12,Public_School,Illiterate,Secondary school,Housewife,Minister,2,4,4,5,4,5.0,4,4,4,1,2,4,4,3,3,3,Yes,No,Yes,Yes,3,2,2,28.0,30.0
+Male,19,Urban,Other,2,3,12,Public_School,High school,Bachelor,Housewife,Other,3,4,4,5,5,5.0,5,5,4,1,4,4,4,2,4,4,Yes,Yes,Yes,Yes,2,1,1,30.0,30.0
+Male,16,Rural,Parents,3,2,10,Public_School,High school,Secondary school,Housewife,Other,3,3,3,3,1,2.0,3,2,2,1,4,3,3,3,3,3,Yes,Yes,Yes,Yes,3,1,1,30.0,30.0
+Female,16,Rural,Parents,4,3,10,Public_School,Primary school,High school,Other,Other,4,4,4,4,4,2.0,4,4,4,0,3,3,4,3,4,4,Yes,No,Yes,Yes,3,1,1,30.0,30.0
+Female,15,Rural,Only mother,1,3,10,Public_School,Secondary school,Bachelor,Farmer,Other,3,5,5,5,4,2.0,5,4,5,0,3,3,3,3,3,4,Yes,No,Yes,Yes,4,1,1,30.0,30.0
+Male,15,Rural,Parents,4,3,10,Public_School,Primary school,Primary school,Other,Other,2,3,5,4,3,3.0,4,4,3,1,4,3,5,1,4,5,No,No,No,Yes,3,1,1,30.0,30.0
+Female,17,Rural,Parents,6,4,10,Public_School,Primary school,Secondary school,Housewife,Minister,3,5,5,5,4,2.0,2,4,5,2,4,3,3,3,3,3,Yes,No,Yes,Yes,2,1,1,28.0,30.0
+Female,17,Rural,Other,6,3,10,Public_School,Primary school,Primary school,Housewife,Farmer,3,4,3,5,5,5.0,5,5,4,1,4,3,3,2,5,4,No,No,No,Yes,1,1,1,30.0,30.0
+Female,17,Rural,Parents,6,3,10,Public_School,High school,Secondary school,Housewife,Other,1,4,5,5,5,1.0,5,5,2,0,2,3,3,2,5,5,No,No,No,Yes,3,1,1,30.0,30.0
+Female,16,Rural,Parents,4,2,10,Public_School,Primary school,Primary school,Other,Other,2,3,3,3,3,3.0,2,2,3,1,3,3,2,2,3,3,No,No,Yes,Yes,3,1,1,29.0,30.0
+Female,16,Rural,Parents,3,4,10,Public_School,Illiterate,Primary school,Housewife,Farmer,3,4,4,4,3,4.0,3,3,3,0,3,4,3,2,2,3,Yes,No,Yes,Yes,1,1,1,30.0,30.0
+Female,16,Rural,Parents,4,3,10,Public_School,Secondary school,Primary school,Other,Other,4,4,4,4,2,2.0,2,3,4,1,3,3,4,3,4,3,No,No,Yes,Yes,4,1,1,30.0,30.0
+Female,16,Rural,Parents,4,3,10,Public_School,Primary school,Primary school,Housewife,Farmer,3,4,4,4,3,3.0,3,3,4,1,3,3,3,3,3,3,Yes,No,Yes,Yes,3,1,1,29.0,30.0
+Female,15,Rural,Parents,2,3,10,Public_School,Secondary school,Secondary school,Housewife,Own business,3,2,3,4,3,3.0,3,4,2,1,2,2,2,2,2,2,Yes,No,Yes,Yes,3,1,1,30.0,30.0
+Male,16,Rural,Parents,2,3,10,Public_School,Primary school,Primary school,Housewife,Farmer,3,3,3,5,3,3.0,4,5,4,0,4,4,3,2,4,5,Yes,No,Yes,Yes,3,1,1,29.0,30.0
+Male,17,Rural,Parents,4,3,12,Public_School,Illiterate,Primary school,Farmer,Farmer,3,4,3,3,3,3.0,3,3,3,0,3,3,3,3,3,3,Yes,No,Yes,Yes,5,3,3,30.0,30.0
+Female,17,Rural,Parents,2,1,12,Public_School,Primary school,Primary school,Housewife,Farmer,3,2,5,5,2,4.0,2,5,4,1,5,2,5,5,5,5,No,No,Yes,Yes,5,1,1,27.0,30.0
+Male,18,Rural,Parents,3,3,12,Public_School,Primary school,High school,Farmer,Farmer,2,2,3,3,3,3.0,3,1,3,1,2,3,3,1,2,2,Yes,No,Yes,Yes,2,1,1,30.0,30.0
+Male,17,Rural,Parents,2,3,12,Public_School,Illiterate,Illiterate,Housewife,Farmer,2,3,4,5,3,3.0,4,5,5,0,2,4,2,3,3,2,Yes,No,No,Yes,5,1,1,25.0,30.0
+Female,18,Rural,Parents,2,3,12,Public_School,Primary school,High school,Housewife,Farmer,3,5,3,3,4,3.0,3,5,3,0,4,3,4,3,3,5,Yes,No,Yes,Yes,5,3,4,35.0,30.0
+Male,14,Rural,Parents,3,5,11,Public_School,Primary school,Primary school,Farmer,Farmer,3,4,5,4,3,4.0,4,5,5,1,5,1,5,2,4,5,Yes,No,No,Yes,2,1,1,32.0,30.0
+Female,19,Rural,Parents,2,3,12,Public_School,High school,Secondary school,Housewife,Farmer,3,4,4,3,3,3.0,4,4,4,0,4,3,3,2,4,4,Yes,No,Yes,Yes,2,1,1,30.0,30.0
+Male,18,Urban,Parents,4,4,12,Private_School,High school,High school,Own business,Own business,2,4,4,4,4,4.0,4,4,4,0,2,4,4,2,4,4,Yes,No,Yes,Yes,4,1,2,26.0,30.0
+Male,17,Rural,Parents,3,4,11,Public_School,High school,High school,Housewife,Minister,2,2,3,3,2,4.0,3,3,3,0,2,3,3,2,3,2,Yes,No,Yes,Yes,1,1,1,28.0,30.0
+Female,18,Rural,Parents,3,4,11,Public_School,High school,High school,Farmer,Farmer,2,2,2,2,2,2.0,2,2,2,0,1,4,2,2,2,2,No,No,No,No,2,1,1,32.0,30.0
+Female,16,Rural,Parents,2,3,11,Public_School,Primary school,Secondary school,Other,Farmer,3,4,5,5,4,3.0,4,2,5,1,3,4,3,1,4,5,Yes,Yes,Yes,Yes,3,1,1,32.4,29.8
+Male,15,Urban,Parents,2,1,10,Public_School,Master & PhD,Master & PhD,Own business,Own business,5,5,5,5,5,2.0,5,5,5,0,3,5,4,4,3,5,Yes,Yes,Yes,Yes,3,1,1,24.0,29.0
+Male,16,Rural,Parents,6,5,10,Public_School,High school,Primary school,Own business,Own business,3,4,4,5,4,5.0,4,4,4,0,4,3,3,1,4,3,Yes,No,No,Yes,2,1,1,29.0,29.0
+Male,16,Rural,Parents,2,3,10,Public_School,Secondary school,High school,Housewife,Other,3,3,3,3,3,2.0,3,3,3,1,3,3,3,1,3,3,Yes,Yes,Yes,Yes,2,1,1,25.0,29.0
+Female,15,Rural,Parents,2,4,10,Public_School,Secondary school,Primary school,Private staff,Other,3,3,4,4,3,3.0,3,3,3,1,3,3,5,2,3,3,Yes,No,Yes,Yes,3,1,1,29.0,29.0
+Male,18,Rural,Parents,4,4,12,Public_School,Secondary school,High school,Housewife,Own business,3,3,2,4,2,3.0,3,3,3,1,3,2,4,4,3,2,Yes,Yes,No,Yes,1,1,2,27.5,29.0
+Male,17,Rural,Parents,6,5,11,Public_School,Secondary school,Bachelor,Housewife,Minister,2,4,4,4,4,4.0,4,4,4,0,3,3,5,2,3,5,Yes,Yes,Yes,Yes,3,1,1,27.5,29.0
+Female,17,Rural,Parents,4,4,11,Public_School,Primary school,Primary school,Farmer,Farmer,2,5,5,5,5,5.0,3,4,4,1,4,2,4,4,4,4,Yes,Yes,Yes,Yes,2,1,1,28.0,29.0
+Male,17,Rural,Parents,2,5,12,Public_School,Secondary school,Primary school,Farmer,Farmer,3,5,5,5,5,5.0,5,3,4,1,4,4,5,1,5,5,Yes,No,Yes,Yes,2,1,1,30.0,28.0
+Female,15,Rural,Parents,4,4,10,Public_School,Secondary school,Secondary school,Other,Other,4,2,3,3,2,3.0,3,3,4,1,3,3,3,1,3,3,Yes,No,Yes,Yes,4,1,1,26.0,28.0
+Female,16,Rural,Parents,2,3,10,Public_School,Primary school,Primary school,Own business,Other,3,4,4,5,3,4.0,3,4,3,0,3,3,4,1,4,4,Yes,No,Yes,Yes,3,1,1,29.0,28.0
+Male,16,Urban,Parents,4,5,11,Private_School,High school,Bachelor,Own business,Private staff,3,3,5,4,2,1.0,2,2,3,0,1,3,2,4,2,4,Yes,Yes,Yes,Yes,3,1,2,30.0,28.0
+Female,18,Rural,Only mother,4,4,12,Public_School,Illiterate,Secondary school,Housewife,Farmer,3,3,3,4,3,3.0,3,5,3,2,3,2,4,3,3,3,Yes,No,Yes,No,2,1,1,25.8,28.0
+Male,17,Urban,Only mother,3,3,10,Public_School,Primary school,High school,Housewife,Minister,3,3,3,3,4,4.0,4,4,3,1,3,3,4,1,3,3,Yes,No,Yes,Yes,3,1,1,27.0,27.0
+Male,15,Rural,Parents,2,4,10,Public_School,Primary school,Primary school,Housewife,Farmer,3,3,3,3,3,3.0,3,3,3,1,4,3,4,2,4,4,No,No,Yes,Yes,3,1,1,28.0,27.0
+Female,16,Rural,Parents,3,3,11,Public_School,Primary school,Primary school,Housewife,Farmer,3,2,3,3,3,2.0,3,2,3,1,4,4,5,5,4,4,Yes,No,Yes,Yes,3,1,1,30.0,27.0
+Female,19,Rural,Parents,2,3,11,Public_School,Illiterate,Primary school,Farmer,Farmer,3,4,5,5,4,3.0,3,5,3,1,2,2,3,2,5,4,Yes,No,Yes,Yes,2,1,1,27.0,27.0
+Female,17,Rural,Parents,3,2,11,Private_School,Primary school,Primary school,Housewife,Farmer,3,5,2,2,2,1.0,1,1,1,1,1,2,2,2,2,2,Yes,No,Yes,Yes,2,1,1,27.0,27.0
+Male,15,Rural,Parents,3,4,10,Public_School,Primary school,Primary school,Farmer,Farmer,4,3,3,3,3,3.0,3,3,3,0,3,3,3,3,3,3,Yes,Yes,No,No,3,1,1,28.0,27.0
+Female,17,Rural,Other,3,3,10,Public_School,Primary school,Illiterate,Housewife,Other,3,4,3,5,4,2.0,4,5,3,0,4,3,4,2,5,3,No,Yes,Yes,Yes,4,1,1,26.0,26.0
+Male,17,Rural,Parents,2,3,10,Public_School,Primary school,Primary school,Housewife,Farmer,3,4,3,5,3,5.0,4,3,3,1,2,1,2,2,3,3,No,No,Yes,No,1,1,1,26.0,26.0
+Male,18,Rural,Parents,2,4,11,Public_School,Illiterate,Illiterate,Housewife,Farmer,1,3,5,3,5,3.0,2,4,1,1,1,3,1,3,3,4,Yes,No,No,Yes,2,1,1,35.0,26.0
+Female,17,Rural,Parents,3,3,11,Public_School,Secondary school,Illiterate,Housewife,Farmer,3,4,5,5,4,3.0,3,5,3,1,2,2,3,2,5,4,Yes,No,Yes,Yes,2,1,1,25.0,26.0
+Male,16,Urban,Parents,3,3,10,Public_School,Primary school,Primary school,Private staff,Other,2,3,1,1,4,1.0,1,1,1,0,1,3,1,3,2,1,Yes,No,Yes,Yes,1,3,3,26.0,26.0
+Male,16,Urban,Parents,3,3,10,Public_School,Primary school,Primary school,Private staff,Other,2,3,1,1,4,1.0,1,1,1,0,1,3,1,3,2,1,Yes,No,Yes,Yes,1,3,3,26.0,26.0
+Male,16,Urban,Parents,3,3,10,Public_School,Primary school,Primary school,Private staff,Other,2,3,1,1,4,1.0,1,1,1,0,1,3,1,3,2,1,Yes,No,Yes,Yes,1,3,3,26.0,26.0
+Male,18,Rural,Parents,3,4,12,Public_School,High school,High school,Housewife,Farmer,2,4,4,4,4,4.0,4,4,4,0,3,3,4,2,5,4,Yes,No,Yes,No,4,1,2,27.0,26.0
+Male,17,Rural,Parents,3,4,11,Public_School,High school,High school,Own business,Other,2,3,3,5,2,4.0,1,3,2,0,2,4,5,2,3,4,No,No,No,No,1,1,1,23.6,26.0
+Male,17,Rural,Parents,4,4,11,Public_School,Illiterate,Illiterate,Housewife,Farmer,1,4,2,5,3,4.0,3,5,3,2,3,2,5,5,2,4,Yes,No,No,Yes,3,1,2,24.0,25.5
+Male,19,Rural,Only,4,5,12,Public_School,Bachelor,High school,Housewife,Minister,3,4,5,5,5,5.0,5,5,5,0,5,5,5,1,5,5,Yes,Yes,Yes,Yes,5,1,3,35.0,25.0
+Female,18,Rural,Parents,3,3,12,Public_School,Secondary school,High school,Own business,Own business,4,5,5,5,5,1.0,4,3,4,0,5,3,2,2,5,5,Yes,No,Yes,No,5,1,1,35.0,25.0
+Female,17,Rural,Parents,3,2,12,Public_School,Primary school,Illiterate,Farmer,Farmer,3,3,4,5,4,5.0,4,3,4,1,4,2,5,2,5,4,Yes,No,Yes,Yes,2,1,1,34.0,25.0
+Male,16,Rural,Parents,6,4,10,Public_School,Illiterate,Primary school,Own business,Own business,3,4,4,4,4,4.0,4,4,4,0,3,3,3,3,3,3,No,No,No,Yes,3,1,1,25.0,25.0
+Male,15,Rural,Parents,3,3,10,Public_School,Illiterate,Primary school,Housewife,Own business,4,4,3,4,1,1.0,4,4,4,0,3,3,3,2,3,4,No,No,No,Yes,2,1,1,25.0,25.0
+Male,17,Rural,Parents,6,5,12,Public_School,Primary school,Primary school,Housewife,Farmer,5,4,4,4,4,3.0,3,3,4,1,3,5,1,4,4,5,Yes,Yes,No,No,1,4,3,35.0,25.0
+Female,17,Rural,Parents,3,1,12,Public_School,Secondary school,Secondary school,Housewife,Farmer,3,2,5,5,2,4.0,2,5,4,1,5,2,5,2,5,5,No,No,Yes,Yes,5,1,1,27.0,25.0
+Male,17,Rural,Parents,6,5,12,Public_School,Primary school,Primary school,Housewife,Farmer,5,3,4,3,3,3.0,3,3,3,1,5,5,1,1,1,1,Yes,Yes,Yes,Yes,1,4,3,30.0,25.0
+Male,16,Rural,Parents,4,3,11,Public_School,High school,Secondary school,Housewife,Farmer,2,4,2,4,3,2.0,3,3,4,1,3,4,4,1,3,3,No,Yes,Yes,Yes,1,1,1,25.0,25.0
+Female,16,Rural,Parents,2,3,11,Public_School,Primary school,Primary school,Housewife,Farmer,4,2,3,3,2,3.0,3,2,4,0,2,2,3,2,3,2,Yes,No,Yes,Yes,2,1,1,28.0,25.0
+Female,16,Rural,Parents,3,3,11,Public_School,Primary school,Primary school,Housewife,Farmer,3,3,3,3,3,4.0,4,4,4,1,3,3,3,2,2,2,Yes,No,Yes,Yes,2,1,1,26.0,25.0
+Male,15,Rural,Parents,1,3,10,Public_School,Primary school,Bachelor,Housewife,Other,4,3,3,4,3,3.0,3,3,2,1,4,3,3,2,4,2,Yes,No,No,Yes,2,1,1,28.0,25.0
+Male,19,Rural,Parents,2,4,12,Public_School,High school,High school,Housewife,Farmer,2,4,4,4,4,4.0,4,4,4,0,2,3,4,2,5,4,Yes,No,Yes,Yes,2,1,2,23.5,25.0
+Male,17,Urban,Parents,3,4,11,Private_School,Bachelor,High school,Minister,Minister,4,4,4,4,4,4.0,4,4,4,0,2,3,4,4,4,4,Yes,Yes,Yes,Yes,4,1,2,25.0,24.5
+Female,16,Rural,Parents,1,3,10,Public_School,Primary school,Secondary school,Housewife,Farmer,3,4,5,3,2,4.0,3,3,3,1,2,3,5,2,2,4,Yes,No,Yes,Yes,2,1,1,23.35,24.45
+Female,17,Rural,Parents,3,3,11,Public_School,High school,High school,Housewife,Farmer,2,4,4,4,4,4.0,4,4,4,0,2,2,4,2,5,4,Yes,No,Yes,Yes,2,1,1,21.0,24.0
+Male,16,Rural,Parents,3,4,11,Public_School,Secondary school,Secondary school,Own business,Own business,3,5,4,5,3,3.0,3,3,3,0,1,3,3,3,2,4,Yes,Yes,Yes,Yes,3,1,2,16.0,23.0
+Male,17,Rural,Parents,3,4,11,Public_School,Illiterate,Illiterate,Housewife,Farmer,1,4,2,5,3,4.0,3,5,3,2,4,2,5,5,2,4,Yes,No,No,No,2,1,1,22.5,23.0
+Male,15,Rural,Parents,3,4,10,Public_School,Primary school,Secondary school,Housewife,Other,2,3,3,3,3,3.0,2,2,1,1,3,2,2,1,2,3,Yes,Yes,No,Yes,2,1,1,23.5,23.0
+Male,17,Rural,Parents,3,4,11,Public_School,High school,Bachelor,Housewife,Minister,3,4,5,5,5,4.0,5,5,5,0,3,2,4,1,4,3,Yes,No,Yes,No,3,1,1,22.0,23.0
+Male,14,Rural,Parents,3,4,10,Public_School,Secondary school,Primary school,Housewife,Other,2,3,3,3,3,3.0,2,2,1,1,3,2,2,1,2,3,Yes,Yes,No,Yes,1,1,1,23.5,22.5
+Male,17,Rural,Parents,4,4,11,Public_School,High school,High school,Own business,Other,2,3,3,5,2,4.0,1,3,2,0,2,3,5,2,5,3,No,No,No,Yes,2,1,1,23.0,22.5
+Male,17,Rural,Parents,3,4,11,Public_School,Bachelor,Bachelor,Own business,Minister,3,3,4,4,4,4.0,4,4,4,0,3,2,4,3,4,5,Yes,Yes,Yes,Yes,2,1,2,23.0,22.5
+Female,16,Rural,Parents,2,4,11,Public_School,Primary school,Primary school,Farmer,Farmer,3,4,4,4,3,3.0,4,4,3,1,3,3,3,3,3,3,Yes,No,Yes,Yes,2,2,2,23.0,20.0
+Male,15,Urban,Parents,2,3,10,Public_School,High school,Primary school,Own business,Own business,2,5,4,5,3,3.0,3,3,3,0,2,3,3,3,2,4,Yes,Yes,Yes,No,4,1,1,13.0,20.0
+Male,17,Rural,Parents,6,5,12,Public_School,High school,Secondary school,Own business,Own business,3,5,4,5,3,3.0,3,4,3,0,1,4,3,2,4,4,Yes,Yes,Yes,No,4,1,1,22.0,20.0
+Male,17,Urban,Parents,3,4,11,Private_School,Secondary school,Bachelor,Housewife,Other,3,5,5,5,2,5.0,4,4,3,0,3,3,5,1,4,5,Yes,No,Yes,Yes,3,1,3,23.0,20.0
+Male,17,Rural,Only mother,3,5,11,Public_School,Secondary school,Bachelor,Housewife,Other,3,5,5,5,2,5.0,4,4,3,0,3,3,5,1,4,5,Yes,No,Yes,Yes,4,2,1,20.0,19.0
+Male,17,Rural,Parents,4,4,10,Public_School,Primary school,High school,Farmer,Minister,3,4,5,4,3,3.0,2,3,3,0,1,4,4,4,4,3,Yes,No,No,No,4,2,1,17.5,18.5
+Female,18,Rural,Parents,3,3,12,Public_School,Secondary school,Secondary school,Own business,Own business,3,4,4,4,2,4.0,4,4,3,1,4,3,5,2,5,5,Yes,No,Yes,Yes,2,1,2,15.0,18.0
+Male,18,Rural,Parents,6,5,12,Public_School,Primary school,Primary school,Farmer,Farmer,2,3,3,3,3,3.0,3,3,3,0,3,3,3,3,4,3,No,No,No,No,3,1,2,20.0,18.0
+Male,16,Rural,Parents,3,4,11,Public_School,High school,Secondary school,Own business,Own business,3,5,4,5,3,3.0,3,3,3,0,2,3,3,2,2,4,Yes,Yes,Yes,No,3,1,1,20.0,18.0
+Female,15,Rural,Parents,6,3,10,Public_School,Illiterate,Illiterate,Other,No job,1,2,2,2,1,1.0,1,1,3,2,2,4,5,4,1,2,No,No,No,No,2,2,1,15.0,17.0
+Male,18,Rural,Parents,4,4,11,Public_School,Secondary school,Secondary school,Farmer,Farmer,2,3,3,3,3,3.0,3,3,3,0,2,4,3,3,3,3,No,No,No,No,2,1,2,15.0,17.0
+Male,18,Rural,Parents,6,4,12,Public_School,Primary school,Secondary school,Housewife,Farmer,1,1,3,3,2,2.0,2,2,3,1,2,4,2,3,3,3,Yes,No,No,Yes,2,1,2,13.0,15.0
+Male,18,Urban,Parents,6,3,10,Public_School,High school,Primary school,Housewife,Other,3,5,5,5,5,3.0,5,5,1,0,2,3,4,2,3,5,Yes,No,Yes,Yes,3,1,1,13.0,10.0
+Male,19,Rural,Parents,6,5,11,Public_School,Primary school,Primary school,Housewife,Other,3,4,4,5,4,4.0,5,5,3,0,4,2,5,3,5,4,Yes,No,Yes,Yes,4,1,1,13.0,10.0
+Male,19,Urban,Other,3,3,12,Public_School,Bachelor,Master & PhD,Minister,Minister,3,4,5,5,5,5.0,5,5,5,1,3,3,5,2,5,3,Yes,Yes,Yes,Yes,3,1,1,13.0,10.0
+Male,15,Urban,Parents,3,4,10,Private_School,High school,Secondary school,Minister,Minister,3,5,4,5,3,3.0,3,4,3,0,1,4,3,2,4,4,Yes,Yes,Yes,No,4,2,2,13.0,10.0
+Male,17,Rural,Parents,3,3,11,Public_School,Secondary school,Secondary school,Housewife,Farmer,3,2,2,1,3,3.0,3,3,5,0,1,4,3,2,3,5,No,No,Yes,Yes,3,1,1,24.0,25.0
+Male,17,Rural,Parents,4,4,11,Public_School,Primary school,Secondary school,Housewife,Other,2,2,4,3,4,3.0,2,5,3,0,3,3,3,3,4,5,No,No,No,No,1,1,2,24.5,25.6
+Male,17,Rural,Parents,3,4,11,Public_School,Secondary school,High school,Farmer,Farmer,2,5,3,5,3,3.0,4,5,3,0,3,2,4,1,3,4,Yes,Yes,Yes,Yes,2,1,1,27.0,28.0
+Male,18,Rural,Parents,6,4,12,Public_School,Secondary school,High school,Farmer,Farmer,2,5,3,5,3,3.0,4,5,3,0,4,3,4,1,3,4,Yes,Yes,Yes,Yes,3,1,2,27.0,29.0
+Male,17,Rural,Parents,4,4,11,Public_School,Illiterate,Secondary school,Farmer,Farmer,2,2,3,3,3,3.0,2,3,3,2,3,3,4,2,3,3,Yes,No,Yes,Yes,3,1,1,31.5,30.0
+Male,15,Rural,Parents,3,5,10,Public_School,Secondary school,Secondary school,Housewife,Minister,2,2,3,3,3,4.0,4,4,3,2,4,3,3,1,4,5,Yes,Yes,Yes,Yes,2,1,1,31.5,32.0
+Male,17,Rural,Parents,4,4,11,Public_School,Secondary school,Bachelor,Own business,Minister,3,2,3,5,3,2.0,1,2,2,2,3,4,3,2,4,2,Yes,No,Yes,Yes,3,1,1,45.0,45.7
+Male,15,Rural,Parents,4,4,10,Private_School,Secondary school,High school,Own business,Minister,3,3,4,5,3,2.0,4,4,4,0,4,3,4,2,3,4,Yes,Yes,Yes,Yes,3,1,1,45.0,44.0
+Female,17,Rural,Parents,4,4,11,Public_School,Illiterate,Illiterate,Farmer,Farmer,1,5,5,5,5,5.0,5,5,3,2,1,4,1,1,3,3,Yes,No,Yes,Yes,3,1,1,45.0,45.9
+Male,17,Urban,Parents,3,4,11,Private_School,Master & PhD,Master & PhD,Private staff,Minister,3,4,4,4,4,4.0,4,4,4,2,3,3,4,1,4,3,Yes,Yes,Yes,Yes,3,1,1,45.0,45.5
+Male,18,Rural,Parents,2,4,11,Public_School,High school,High school,Housewife,Farmer,2,2,5,5,2,3.0,3,3,3,0,3,3,5,2,5,5,Yes,No,Yes,Yes,3,1,1,47.0,47.8
+Male,18,Urban,Parents,4,4,12,Private_School,High school,High school,Private staff,Minister,2,3,2,2,2,2.0,1,4,2,2,3,3,2,3,5,4,Yes,No,Yes,Yes,3,1,1,47.0,48.0
+Male,17,Rural,Parents,4,4,11,Public_School,Secondary school,Secondary school,Farmer,Farmer,2,4,5,5,3,5.0,5,4,3,0,3,2,2,2,2,2,Yes,Yes,Yes,Yes,2,1,2,47.0,47.8
+Male,17,Rural,Parents,4,4,11,Public_School,Secondary school,Secondary school,Housewife,Farmer,2,3,4,5,2,3.0,2,4,3,0,3,3,4,4,4,3,Yes,No,Yes,No,2,1,1,35.0,32.0
+Male,18,Rural,Parents,4,4,11,Public_School,Secondary school,High school,Farmer,Minister,3,5,5,5,5,5.0,5,5,5,0,3,3,5,5,5,5,Yes,No,Yes,Yes,3,1,1,35.0,36.0
+Male,18,Rural,Parents,4,4,11,Public_School,Secondary school,Secondary school,Housewife,Farmer,2,3,3,3,3,4.0,3,4,4,2,3,3,4,2,4,3,No,No,Yes,Yes,2,1,1,35.5,36.0
+Male,17,Rural,Parents,4,4,11,Public_School,Secondary school,Secondary school,Housewife,No job,2,3,5,4,3,5.0,3,3,3,1,3,3,4,2,3,4,Yes,No,No,Yes,3,1,1,32.5,33.4
+Male,16,Urban,Parents,3,4,11,Public_School,Secondary school,Secondary school,Private staff,Other,2,3,3,3,2,2.0,3,3,3,0,4,3,4,2,3,4,Yes,No,Yes,Yes,3,1,1,32.5,35.0
+Male,18,Rural,Parents,4,5,12,Public_School,High school,High school,Private staff,Private staff,3,5,5,4,4,2.0,3,5,5,1,3,3,5,5,5,4,Yes,Yes,Yes,Yes,3,1,2,32.5,34.0
+Male,17,Urban,Parents,4,5,11,Public_School,High school,High school,Private staff,Private staff,3,5,5,4,4,2.0,3,5,5,1,3,3,5,5,5,4,Yes,Yes,Yes,Yes,2,1,1,32.5,33.0
+Male,18,Urban,Parents,4,4,11,Private_School,Bachelor,Bachelor,Own business,Minister,4,4,5,2,2,2.0,2,3,5,0,3,2,3,3,1,1,Yes,Yes,Yes,No,3,1,3,32.5,35.0
+Male,17,Urban,Parents,4,4,11,Public_School,Secondary school,High school,Own business,Own business,2,4,5,5,2,5.0,4,3,5,0,3,3,5,1,4,5,Yes,No,Yes,Yes,3,1,1,33.0,32.5
+Male,15,Rural,Parents,4,4,10,Public_School,Secondary school,Bachelor,Housewife,Other,2,4,3,3,3,4.0,3,3,4,0,3,3,3,2,3,3,No,No,Yes,Yes,3,1,1,33.0,33.5
+Male,18,Urban,Parents,3,4,11,Public_School,High school,High school,Housewife,Own business,2,4,4,4,5,5.0,3,3,5,0,1,4,4,1,5,5,Yes,Yes,Yes,No,2,1,3,33.1,34.5
+Male,17,Rural,Only mother,3,4,11,Public_School,Primary school,Secondary school,Housewife,Other,3,3,3,4,4,4.0,3,4,3,0,3,3,3,4,4,3,No,No,No,Yes,3,1,1,20.0,19.0
+Male,17,Rural,Parents,4,4,11,Public_School,Illiterate,High school,Farmer,Minister,1,1,1,1,2,1.0,1,1,1,0,3,3,1,1,1,4,No,No,No,Yes,2,1,1,23.0,20.0
+Male,16,Rural,Parents,3,4,11,Public_School,Primary school,High school,Farmer,Minister,3,4,5,4,3,3.0,2,3,3,0,3,3,4,4,4,3,Yes,No,No,Yes,3,2,2,22.0,23.5
+Male,17,Rural,Parents,4,5,11,Public_School,Secondary school,Secondary school,Farmer,Farmer,2,4,4,5,3,4.0,3,4,4,0,3,3,2,1,4,5,Yes,No,Yes,Yes,2,1,1,27.0,30.0
